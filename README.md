@@ -4,16 +4,10 @@
 
 ## Running
 
-### Development
+> TODO: fill in/update instructions here
 
 ```bash
-docker run -it -p 8501:8501 -v $PWD:/app tomerlevi/streamlit app.py
-```
-
-### Production
-
-```bash
-docker run -it -p 8501:8501 -v $PWD:/app tomerlevi/streamlit app.py 
+docker run -it -p 8501:8501 -v $PWD:/app synalytica/foliowiz-pilot:latest
 ```
 
 ## Dataset
