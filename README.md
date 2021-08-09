@@ -13,8 +13,10 @@ pip3 install -r requirements.txt
 ### Running
 
 ```bash
-streamlit run app.py
+./entrypoint.sh
 ```
+
+- Navigate to the [local deployment](http://localhost:8501) to view the application
 
 ## Dataset
 
