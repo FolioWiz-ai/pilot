@@ -2,12 +2,27 @@
 
 > Exploratory US stock and equity data
 
+## Running
+
+### Development
+
+```bash
+docker run -it -p 8501:8501 -v $PWD:/app tomerlevi/streamlit app.py
+```
+
+### Production
+
+```bash
+docker run -it -p 8501:8501 -v $PWD:/app tomerlevi/streamlit app.py 
+```
+
 ## Dataset
+
 1. FolioWiz stock universe (this represents about 1/8th of the total US stock market)
-2. Asampleportfolio(thisisavirtualportfoliocontainingtickersandtheirbuy/sell dates, quantity)
+2. A sample portfolio (this is a virtual portfolio containing tickers and their buy/sell dates, quantity)
 
 ## Scope
-1. Downloadandextract(fortickersinFolioWizstockuniverse)
+1. Download and extract (for tickers in FolioWiz stock universe)
 	a. 2 profile data (sector, industry)
 	b. 4 metrics (operating cash flow, total returns, EV/EBITDA, D/E) - each individual metric falls into key buckets such as operating performance, returns, valuation, and risk
 

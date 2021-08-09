@@ -1,0 +1,7 @@
+# data exploration app framework
+streamlit
+# additional data handling
+pandas
+# plotting and custom visualization
+matplotlib
+
