@@ -2,12 +2,18 @@
 
 > Exploratory US stock and equity data
 
-## Running
-
-> TODO: fill in/update instructions here
+## Installation
 
 ```bash
-docker run -it -p 8501:8501 -v $PWD:/app synalytica/foliowiz-pilot:latest
+mkvirtualenv foliowiz --python 3.9.6
+workon foliowiz
+pip3 install -r requirements.txt
+```
+
+### Running
+
+```bash
+streamlit run app.py
 ```
 
 ## Dataset
