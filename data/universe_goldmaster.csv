@@ -1,0 +1,880 @@
+ticker,currency,exchange,sector,industry
+A,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+AAL,USD,Nasdaq Global Select,Industrials,Airlines
+AAP,USD,New York Stock Exchange,Consumer Cyclical,Specialty Retail
+AAPL,USD,Nasdaq Global Select,Technology,Consumer Electronics
+ABBV,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ General
+ABC,USD,New York Stock Exchange,Healthcare,Medical Distribution
+ABMD,USD,Nasdaq Global Select,Healthcare,Medical Devices
+ABT,USD,New York Stock Exchange,Healthcare,Medical Devices
+ACN,USD,New York Stock Exchange,Technology,Information Technology Services
+ADBE,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+ADI,USD,Nasdaq Global Select,Technology,Semiconductors
+ADM,USD,New York Stock Exchange,Consumer Defensive,Farm Products
+ADP,USD,Nasdaq Global Select,Industrials,Staffing & Employment Services
+ADSK,USD,Nasdaq Global Select,Technology,Software‚ Application
+AEE,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+AEP,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+AES,USD,New York Stock Exchange,Utilities,Utilities‚ Diversified
+AFL,USD,New York Stock Exchange,Financial Services,Insurance‚ Life
+AIG,USD,New York Stock Exchange,Financial Services,Insurance‚ Diversified
+AIZ,USD,New York Stock Exchange,Financial Services,Insurance‚ Specialty
+AJG,USD,New York Stock Exchange,Financial Services,Insurance Brokers
+AKAM,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+ALB,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+ALGN,USD,Nasdaq Global Select,Healthcare,Medical Devices
+ALK,USD,New York Stock Exchange,Industrials,Airlines
+ALL,USD,New York Stock Exchange,Financial Services,Insurance‚ Property & Casualty
+ALLE,USD,New York Stock Exchange,Industrials,Security & Protection Services
+ALXN,USD,Nasdaq Global Select,Healthcare,Biotechnology
+AMAT,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+AMCR,USD,New York Stock Exchange,Consumer Cyclical,Packaging & Containers
+AMD,USD,Nasdaq Capital Market,Technology,Semiconductors
+AME,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+AMGN,USD,Nasdaq Global Select,Healthcare,Drug Manufacturers‚ General
+AMP,USD,New York Stock Exchange,Financial Services,Asset Management
+AMT,USD,New York Stock Exchange,Real Estate,REIT‚ Specialty
+AMZN,USD,Nasdaq Global Select,Consumer Cyclical,Internet Retail
+ANET,USD,New York Stock Exchange,Technology,Computer Hardware
+ANSS,USD,Nasdaq Global Select,Technology,Software‚ Application
+ANTM,USD,New York Stock Exchange,Healthcare,Healthcare Plans
+AON,USD,New York Stock Exchange,Financial Services,Insurance Brokers
+AOS,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+APA,USD,New York Stock Exchange,Basic Materials,Oil & Gas E&P
+APD,USD,New York Stock Exchange,Basic Materials,Chemicals
+APH,USD,New York Stock Exchange,Technology,Electronic Components
+APTV,USD,New York Stock Exchange,Consumer Cyclical,Auto Parts
+ARE,USD,New York Stock Exchange,Real Estate,REIT‚ Office
+ATO,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Gas
+ATVI,USD,Nasdaq Global Select,Communication Services,Electronic Gaming & Multimedia
+AVB,USD,New York Stock Exchange,Real Estate,REIT‚ Residential
+AVGO,USD,Nasdaq Global Select,Technology,Semiconductors
+AVY,USD,New York Stock Exchange,Industrials,Business Equipment & Supplies
+AWK,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Water
+AXP,USD,New York Stock Exchange,Financial Services,Credit Services
+AZO,USD,New York Stock Exchange,Consumer Cyclical,Specialty Retail
+BA,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+BAC,USD,New York Stock Exchange,Financial Services,Banks‚ Diversified
+BAX,USD,New York Stock Exchange,Healthcare,Medical Instruments & Supplies
+BBY,USD,New York Stock Exchange,Consumer Cyclical,Specialty Retail
+BDX,USD,New York Stock Exchange,Healthcare,Medical Instruments & Supplies
+BEN,USD,New York Stock Exchange,Financial Services,Asset Management
+BIIB,USD,Nasdaq Global Select,Healthcare,Drug Manufacturers‚ General
+BIO,USD,New York Stock Exchange,Healthcare,Medical Devices
+BK,USD,New York Stock Exchange,Financial Services,Asset Management
+BKNG,USD,Nasdaq Global Select,Consumer Cyclical,Travel Services
+BKR,USD,New York Stock Exchange,Energy,Oil & Gas Equipment & Services
+BLK,USD,New York Stock Exchange,Financial Services,Asset Management
+BLL,USD,New York Stock Exchange,Consumer Cyclical,Packaging & Containers
+BMY,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ General
+BR,USD,New York Stock Exchange,Technology,Information Technology Services
+BRK.B,USD,New York Stock Exchange,Financial Services,Insurance‚ Diversified
+BSX,USD,New York Stock Exchange,Healthcare,Medical Devices
+BWA,USD,New York Stock Exchange,Consumer Cyclical,Auto Parts
+BXP,USD,New York Stock Exchange,Real Estate,REIT‚ Office
+C,USD,New York Stock Exchange,Financial Services,Banks‚ Diversified
+CAG,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+CAH,USD,New York Stock Exchange,Healthcare,Medical Distribution
+CARR,USD,New York Stock Exchange,Industrials,Building Products & Equipment
+CAT,USD,New York Stock Exchange,Industrials,Farm & Heavy Construction Machinery
+CB,USD,New York Stock Exchange,Financial Services,Insurance‚ Property & Casualty
+CBRE,USD,New York Stock Exchange,Real Estate,Real Estate Services
+CCI,USD,New York Stock Exchange,Real Estate,REIT‚ Specialty
+CCL,USD,New York Stock Exchange,Consumer Cyclical,Travel Services
+CDNS,USD,Nasdaq Global Select,Technology,Software‚ Application
+CDW,USD,Nasdaq Global Select,Technology,Information Technology Services
+CE,USD,New York Stock Exchange,Basic Materials,Chemicals
+CERN,USD,Nasdaq Global Select,Healthcare,Health Information Services
+CF,USD,New York Stock Exchange,Basic Materials,Agricultural Inputs
+CFG,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+CHD,USD,New York Stock Exchange,Consumer Defensive,Household & Personal Products
+CHRW,USD,Nasdaq Global Select,Industrials,Integrated Freight & Logistics
+CHTR,USD,Nasdaq Global Select,Communication Services,Entertainment
+CI,USD,New York Stock Exchange,Healthcare,Healthcare Plans
+CINF,USD,Nasdaq Global Select,Financial Services,Insurance‚ Property & Casualty
+CL,USD,New York Stock Exchange,Consumer Defensive,Household & Personal Products
+CLX,USD,New York Stock Exchange,Consumer Defensive,Household & Personal Products
+CMA,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+CMCSA,USD,Nasdaq Global Select,Communication Services,Entertainment
+CME,USD,Nasdaq Global Select,Financial Services,Financial Data & Stock Exchanges
+CMG,USD,New York Stock Exchange,Consumer Cyclical,Restaurants
+CMI,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+CMS,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+CNC,USD,New York Stock Exchange,Healthcare,Healthcare Plans
+CNP,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+COF,USD,New York Stock Exchange,Financial Services,Credit Services
+COG,USD,New York Stock Exchange,Energy,Oil & Gas E&P
+COO,USD,New York Stock Exchange,Healthcare,Medical Instruments & Supplies
+COP,USD,New York Stock Exchange,Energy,Oil & Gas E&P
+COST,USD,Nasdaq Global Select,Consumer Defensive,Discount Stores
+CPB,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+CPRT,USD,Nasdaq Global Select,Industrials,Specialty Business Services
+CRL,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+CRM,USD,New York Stock Exchange,Technology,Software‚ Application
+CSCO,USD,Nasdaq Global Select,Technology,Communication Equipment
+CSX,USD,Nasdaq Global Select,Industrials,Railroads
+CTAS,USD,Nasdaq Global Select,Industrials,Specialty Business Services
+CTLT,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ Specialty & Generic
+CTSH,USD,Nasdaq Global Select,Technology,Information Technology Services
+CTVA,USD,New York Stock Exchange,Basic Materials,Agricultural Inputs
+CTXS,USD,Nasdaq Global Select,Technology,Software‚ Application
+CVS,USD,New York Stock Exchange,Healthcare,Healthcare Plans
+CVX,USD,New York Stock Exchange,Energy,Oil & Gas Integrated
+CZR,USD,Nasdaq Global Select,Consumer Cyclical,Resorts & Casinos
+D,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+DAL,USD,New York Stock Exchange,Industrials,Airlines
+DD,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+DE,USD,New York Stock Exchange,Industrials,Farm & Heavy Construction Machinery
+DFS,USD,New York Stock Exchange,Financial Services,Credit Services
+DG,USD,New York Stock Exchange,Consumer Defensive,Discount Stores
+DGX,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+DHI,USD,New York Stock Exchange,Consumer Cyclical,Residential Construction
+DHR,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+DIS,USD,New York Stock Exchange,Consumer Cyclical,Entertainment
+DISCA,USD,Nasdaq Global Select,Communication Services,Entertainment
+DISCK,USD,Nasdaq Global Select,Communication Services,Entertainment
+DISH,USD,Nasdaq Global Select,Communication Services,Entertainment
+DLR,USD,New York Stock Exchange,Real Estate,REIT‚ Office
+DLTR,USD,Nasdaq Global Select,Consumer Defensive,Discount Stores
+DOV,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+DOW,USD,New York Stock Exchange,Basic Materials,Chemicals
+DPZ,USD,New York Stock Exchange,Consumer Cyclical,Restaurants
+DRE,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+DRI,USD,New York Stock Exchange,Consumer Cyclical,Restaurants
+DTE,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+DUK,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+DVA,USD,New York Stock Exchange,Healthcare,Medical Care Facilities
+DVN,USD,New York Stock Exchange,Energy,Oil & Gas E&P
+DXC,USD,New York Stock Exchange,Technology,Information Technology Services
+DXCM,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+EA,USD,Nasdaq Global Select,Communication Services,Electronic Gaming & Multimedia
+EBAY,USD,Nasdaq Global Select,Consumer Cyclical,Internet Retail
+ECL,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+ED,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+EFX,USD,New York Stock Exchange,Industrials,Consulting Services
+EIX,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+EL,USD,New York Stock Exchange,Consumer Defensive,Household & Personal Products
+EMN,USD,New York Stock Exchange,Basic Materials,Chemicals
+EMR,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+ENPH,USD,Nasdaq Global Market,Technology,Solar
+EOG,USD,New York Stock Exchange,Energy,Oil & Gas E&P
+EQIX,USD,Nasdaq Global Select,Real Estate,REIT‚ Specialty
+EQR,USD,New York Stock Exchange,Real Estate,REIT‚ Residential
+ES,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+ESS,USD,New York Stock Exchange,Real Estate,REIT‚ Residential
+ETN,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+ETR,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+ETSY,USD,Nasdaq Global Select,Consumer Cyclical,Internet Retail
+EVRG,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+EW,USD,New York Stock Exchange,Healthcare,Medical Devices
+EXC,USD,Nasdaq Global Select,Utilities,Utilities‚ Diversified
+EXPD,USD,Nasdaq Global Select,Industrials,Integrated Freight & Logistics
+EXPE,USD,Nasdaq Global Select,Consumer Cyclical,Travel Services
+EXR,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+F,USD,New York Stock Exchange,Consumer Cyclical,Auto Manufacturers
+FANG,USD,Nasdaq Global Select,Energy,Oil & Gas E&P
+FAST,USD,Nasdaq Global Select,Industrials,Industrial Distribution
+FB,USD,Nasdaq Global Select,Communication Services,Internet Content & Information
+FBHS,USD,New York Stock Exchange,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+FCX,USD,New York Stock Exchange,Basic Materials,Copper
+FDX,USD,New York Stock Exchange,Industrials,Integrated Freight & Logistics
+FE,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+FFIV,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+FIS,USD,New York Stock Exchange,Technology,Information Technology Services
+FISV,USD,Nasdaq Global Select,Technology,Information Technology Services
+FITB,USD,Nasdaq Global Select,Financial Services,Banks‚ Regional
+FLT,USD,New York Stock Exchange,Technology,Information Technology Services
+FMC,USD,New York Stock Exchange,Basic Materials,Agricultural Inputs
+FOX,USD,Nasdaq Global Select,Communication Services,Broadcasting
+FOXA,USD,Nasdaq Global Select,Communication Services,Broadcasting
+FRC,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+FRT,USD,New York Stock Exchange,Real Estate,REIT‚ Retail
+FTNT,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+FTV,USD,New York Stock Exchange,Technology,Scientific & Technical Instruments
+GD,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+GE,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+GILD,USD,Nasdaq Global Select,Healthcare,Drug Manufacturers‚ General
+GIS,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+GL,USD,New York Stock Exchange,Financial Services,Insurance‚ Life
+GLW,USD,New York Stock Exchange,Technology,Electronic Components
+GM,USD,New York Stock Exchange,Consumer Cyclical,Auto Manufacturers
+GNRC,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+GOOG,USD,Nasdaq Global Select,Communication Services,Internet Content & Information
+GOOGL,USD,Nasdaq Global Select,Communication Services,Internet Content & Information
+GPC,USD,New York Stock Exchange,Consumer Cyclical,Specialty Retail
+GPN,USD,New York Stock Exchange,Industrials,Specialty Business Services
+GPS,USD,New York Stock Exchange,Consumer Cyclical,Apparel Retail
+GRMN,USD,Nasdaq Global Select,Technology,Scientific & Technical Instruments
+GS,USD,New York Stock Exchange,Financial Services,Capital Markets
+GWW,USD,New York Stock Exchange,Industrials,Industrial Distribution
+HAL,USD,New York Stock Exchange,Energy,Oil & Gas Equipment & Services
+HAS,USD,Nasdaq Global Select,Consumer Cyclical,Leisure
+HBAN,USD,Nasdaq Global Select,Financial Services,Banks‚ Regional
+HBI,USD,New York Stock Exchange,Consumer Cyclical,Apparel Manufacturing
+HCA,USD,New York Stock Exchange,Healthcare,Medical Care Facilities
+HD,USD,New York Stock Exchange,Consumer Cyclical,Home Improvement Retail
+HES,USD,New York Stock Exchange,Energy,Oil & Gas E&P
+HFC,USD,New York Stock Exchange,Energy,Oil & Gas Refining & Marketing
+HIG,USD,New York Stock Exchange,Financial Services,Insurance‚ Diversified
+HII,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+HLT,USD,New York Stock Exchange,Consumer Cyclical,Lodging
+HOLX,USD,Nasdaq Global Select,Healthcare,Medical Instruments & Supplies
+HON,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+HPE,USD,New York Stock Exchange,Technology,Communication Equipment
+HPQ,USD,New York Stock Exchange,Technology,Computer Hardware
+HRL,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+HSIC,USD,Nasdaq Global Select,Healthcare,Medical Distribution
+HST,USD,New York Stock Exchange,Real Estate,REIT‚ Hotel & Motel
+HSY,USD,New York Stock Exchange,Consumer Defensive,Confectioners
+HUM,USD,New York Stock Exchange,Healthcare,Healthcare Plans
+HWM,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+IBM,USD,New York Stock Exchange,Technology,Information Technology Services
+ICE,USD,New York Stock Exchange,Financial Services,Financial Data & Stock Exchanges
+IDXX,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+IEX,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+IFF,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+ILMN,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+INCY,USD,Nasdaq Global Select,Healthcare,Biotechnology
+INFO,USD,New York Stock Exchange,Industrials,Consulting Services
+INTC,USD,Nasdaq Global Select,Technology,Semiconductors
+INTU,USD,Nasdaq Global Select,Technology,Software‚ Application
+IP,USD,New York Stock Exchange,Consumer Cyclical,Packaging & Containers
+IPG,USD,New York Stock Exchange,Communication Services,Advertising Agencies
+IPGP,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+IQV,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+IR,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+IRM,USD,New York Stock Exchange,Real Estate,REIT‚ Specialty
+ISRG,USD,Nasdaq Global Select,Healthcare,Medical Instruments & Supplies
+IT,USD,New York Stock Exchange,Technology,Information Technology Services
+ITW,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+IVZ,USD,New York Stock Exchange,Financial Services,Asset Management
+J,USD,New York Stock Exchange,Industrials,Engineering & Construction
+JBHT,USD,Nasdaq Global Select,Industrials,Integrated Freight & Logistics
+JCI,USD,New York Stock Exchange,Industrials,Engineering & Construction
+JKHY,USD,Nasdaq Global Select,Technology,Information Technology Services
+JNJ,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ General
+JNPR,USD,New York Stock Exchange,Technology,Communication Equipment
+JPM,USD,New York Stock Exchange,Financial Services,Banks‚ Diversified
+K,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+KEY,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+KEYS,USD,New York Stock Exchange,Technology,Scientific & Technical Instruments
+KHC,USD,Nasdaq Global Select,Consumer Defensive,Packaged Foods
+KIM,USD,New York Stock Exchange,Real Estate,REIT‚ Retail
+KLAC,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+KMB,USD,New York Stock Exchange,Consumer Defensive,Household & Personal Products
+KMI,USD,New York Stock Exchange,Energy,Oil & Gas Midstream
+KMX,USD,New York Stock Exchange,Consumer Cyclical,Auto & Truck Dealerships
+KO,USD,New York Stock Exchange,Consumer Defensive,Beverages‚ Non-Alcoholic
+KR,USD,New York Stock Exchange,Consumer Defensive,Grocery Stores
+KSU,USD,New York Stock Exchange,Industrials,Railroads
+L,USD,New York Stock Exchange,Financial Services,Insurance‚ Property & Casualty
+LB,USD,New York Stock Exchange,Consumer Cyclical,Apparel Retail
+LDOS,USD,New York Stock Exchange,Technology,Information Technology Services
+LEG,USD,New York Stock Exchange,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+LEN,USD,New York Stock Exchange,Consumer Cyclical,Residential Construction
+LH,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+LHX,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+LIN,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+LKQ,USD,Nasdaq Global Select,Consumer Cyclical,Auto Parts
+LLY,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ General
+LMT,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+LNC,USD,New York Stock Exchange,Financial Services,Insurance‚ Life
+LNT,USD,Nasdaq Global Select,Utilities,Utilities‚ Regulated Electric
+LOW,USD,New York Stock Exchange,Consumer Cyclical,Home Improvement Retail
+LRCX,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+LUMN,USD,New York Stock Exchange,Communication Services,Telecom Services
+LUV,USD,New York Stock Exchange,Industrials,Airlines
+LVS,USD,New York Stock Exchange,Consumer Cyclical,Resorts & Casinos
+LW,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+LYB,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+LYV,USD,New York Stock Exchange,Communication Services,Entertainment
+MA,USD,New York Stock Exchange,Financial Services,Credit Services
+MAA,USD,New York Stock Exchange,Real Estate,REIT‚ Residential
+MAR,USD,Nasdaq Global Select,Consumer Cyclical,Lodging
+MAS,USD,New York Stock Exchange,Industrials,Building Products & Equipment
+MCD,USD,New York Stock Exchange,Consumer Cyclical,Restaurants
+MCHP,USD,Nasdaq Global Select,Technology,Semiconductors
+MCK,USD,New York Stock Exchange,Healthcare,Medical Distribution
+MCO,USD,New York Stock Exchange,Financial Services,Financial Data & Stock Exchanges
+MDLZ,USD,Nasdaq Global Select,Consumer Defensive,Confectioners
+MDT,USD,New York Stock Exchange,Healthcare,Medical Devices
+MET,USD,New York Stock Exchange,Financial Services,Insurance‚ Life
+MGM,USD,New York Stock Exchange,Consumer Cyclical,Resorts & Casinos
+MHK,USD,New York Stock Exchange,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+MKC,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+MKTX,USD,Nasdaq Global Select,Financial Services,Capital Markets
+MLM,USD,New York Stock Exchange,Basic Materials,Building Materials
+MMC,USD,New York Stock Exchange,Financial Services,Insurance Brokers
+MMM,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+MNST,USD,Nasdaq Global Select,Consumer Defensive,Beverages‚ Non-Alcoholic
+MO,USD,New York Stock Exchange,Consumer Defensive,Tobacco
+MOS,USD,New York Stock Exchange,Basic Materials,Agricultural Inputs
+MPC,USD,New York Stock Exchange,Energy,Oil & Gas Refining & Marketing
+MPWR,USD,Nasdaq Global Select,Technology,Semiconductors
+MRK,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ General
+MRO,USD,New York Stock Exchange,Energy,Oil & Gas E&P
+MS,USD,New York Stock Exchange,Financial Services,Capital Markets
+MSCI,USD,New York Stock Exchange,Financial Services,Financial Data & Stock Exchanges
+MSFT,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+MSI,USD,New York Stock Exchange,Technology,Communication Equipment
+MTB,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+MTD,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+MU,USD,Nasdaq Global Select,Technology,Semiconductors
+MXIM,USD,Nasdaq Global Select,Technology,Semiconductors
+NCLH,USD,New York Stock Exchange,Consumer Cyclical,Travel Services
+NDAQ,USD,Nasdaq Global Select,Financial Services,Financial Data & Stock Exchanges
+NEE,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+NEM,USD,New York Stock Exchange,Basic Materials,Gold
+NFLX,USD,Nasdaq Global Select,Communication Services,Entertainment
+NI,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Gas
+NKE,USD,New York Stock Exchange,Consumer Cyclical,Footwear & Accessories
+NLOK,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+NLSN,USD,New York Stock Exchange,Industrials,Consulting Services
+NOC,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+NOV,USD,New York Stock Exchange,Energy,Oil & Gas Equipment & Services
+NOW,USD,New York Stock Exchange,Technology,Software‚ Application
+NRG,USD,New York Stock Exchange,Utilities,Utilities‚ Independent Power Producers
+NSC,USD,New York Stock Exchange,Industrials,Railroads
+NTAP,USD,Nasdaq Global Select,Technology,Computer Hardware
+NTRS,USD,Nasdaq Global Select,Financial Services,Asset Management
+NUE,USD,New York Stock Exchange,Basic Materials,Steel
+NVDA,USD,Nasdaq Global Select,Technology,Semiconductors
+NVR,USD,New York Stock Exchange,Consumer Cyclical,Residential Construction
+NWL,USD,Nasdaq Global Select,Consumer Defensive,Household & Personal Products
+NWS,USD,Nasdaq Global Select,Communication Services,Broadcasting
+NWSA,USD,Nasdaq Global Select,Communication Services,Broadcasting
+NXPI,USD,Nasdaq Global Select,Technology,Semiconductors
+O,USD,New York Stock Exchange,Real Estate,REIT‚ Retail
+ODFL,USD,Nasdaq Global Select,Industrials,Trucking
+OKE,USD,New York Stock Exchange,Energy,Oil & Gas Midstream
+OMC,USD,New York Stock Exchange,Communication Services,Advertising Agencies
+ORCL,USD,New York Stock Exchange,Technology,Software‚ Infrastructure
+ORLY,USD,Nasdaq Global Select,Consumer Cyclical,Specialty Retail
+OTIS,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+OXY,USD,New York Stock Exchange,Energy,Oil & Gas E&P
+PAYC,USD,New York Stock Exchange,Technology,Software‚ Application
+PAYX,USD,Nasdaq Global Select,Industrials,Staffing & Employment Services
+PBCT,USD,Nasdaq Global Select,Financial Services,Banks‚ Regional
+PCAR,USD,Nasdaq Global Select,Industrials,Farm & Heavy Construction Machinery
+PEAK,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+PEG,USD,New York Stock Exchange,Utilities,Utilities‚ Diversified
+PENN,USD,Nasdaq Global Select,Consumer Cyclical,Resorts & Casinos
+PEP,USD,Nasdaq Global Select,Consumer Defensive,Beverages‚ Non-Alcoholic
+PFE,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ General
+PFG,USD,Nasdaq Global Select,Financial Services,Insurance‚ Diversified
+PG,USD,New York Stock Exchange,Consumer Defensive,Household & Personal Products
+PGR,USD,New York Stock Exchange,Financial Services,Insurance‚ Property & Casualty
+PH,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+PHM,USD,New York Stock Exchange,Consumer Cyclical,Residential Construction
+PKG,USD,New York Stock Exchange,Consumer Cyclical,Packaging & Containers
+PKI,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+PLD,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+PM,USD,New York Stock Exchange,Consumer Defensive,Tobacco
+PNC,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+PNR,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+PNW,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+POOL,USD,Nasdaq Global Select,Consumer Cyclical,Leisure
+PPG,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+PPL,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+PRGO,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ Specialty & Generic
+PRU,USD,New York Stock Exchange,Financial Services,Insurance‚ Life
+PSA,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+PSX,USD,New York Stock Exchange,Energy,Oil & Gas Refining & Marketing
+PTC,USD,Nasdaq Global Select,Technology,Software‚ Application
+PVH,USD,New York Stock Exchange,Consumer Cyclical,Apparel Manufacturing
+PWR,USD,New York Stock Exchange,Industrials,Engineering & Construction
+PXD,USD,New York Stock Exchange,Energy,Oil & Gas E&P
+PYPL,USD,Nasdaq Global Select,Financial Services,Credit Services
+QCOM,USD,Nasdaq Global Select,Technology,Semiconductors
+QRVO,USD,Nasdaq Global Select,Technology,Semiconductors
+RCL,USD,New York Stock Exchange,Consumer Cyclical,Travel Services
+RE,USD,New York Stock Exchange,Financial Services,Insurance‚ Reinsurance
+REG,USD,Nasdaq Global Select,Real Estate,REIT‚ Retail
+REGN,USD,Nasdaq Global Select,Healthcare,Biotechnology
+RF,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+RHI,USD,New York Stock Exchange,Industrials,Staffing & Employment Services
+RJF,USD,New York Stock Exchange,Financial Services,Capital Markets
+RL,USD,New York Stock Exchange,Consumer Cyclical,Apparel Manufacturing
+RMD,USD,New York Stock Exchange,Healthcare,Medical Instruments & Supplies
+ROK,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+ROL,USD,New York Stock Exchange,Consumer Cyclical,Personal Services
+ROP,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+ROST,USD,Nasdaq Global Select,Consumer Cyclical,Apparel Retail
+RSG,USD,New York Stock Exchange,Industrials,Waste Management
+RTX,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+SBAC,USD,Nasdaq Global Select,Real Estate,REIT‚ Specialty
+SBUX,USD,Nasdaq Global Select,Consumer Cyclical,Restaurants
+SCHW,USD,New York Stock Exchange,Financial Services,Capital Markets
+SEE,USD,New York Stock Exchange,Consumer Cyclical,Packaging & Containers
+SHW,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+SIVB,USD,Nasdaq Global Select,Financial Services,Banks‚ Regional
+SJM,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+SLB,USD,New York Stock Exchange,Energy,Oil & Gas Equipment & Services
+SNA,USD,New York Stock Exchange,Industrials,Tools & Accessories
+SNPS,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+SO,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+SPG,USD,New York Stock Exchange,Real Estate,REIT‚ Retail
+SPGI,USD,New York Stock Exchange,Financial Services,Financial Data & Stock Exchanges
+SRE,USD,New York Stock Exchange,Utilities,Utilities‚ Diversified
+STE,USD,New York Stock Exchange,Healthcare,Medical Instruments & Supplies
+STT,USD,New York Stock Exchange,Financial Services,Asset Management
+STX,USD,Nasdaq Global Select,Technology,Computer Hardware
+STZ,USD,New York Stock Exchange,Consumer Defensive,Beverages‚ Wineries & Distilleries
+SWK,USD,New York Stock Exchange,Industrials,Tools & Accessories
+SWKS,USD,Nasdaq Global Select,Technology,Semiconductors
+SYF,USD,New York Stock Exchange,Financial Services,Credit Services
+SYK,USD,New York Stock Exchange,Healthcare,Medical Devices
+SYY,USD,New York Stock Exchange,Consumer Defensive,Food Distribution
+T,USD,New York Stock Exchange,Communication Services,Telecom Services
+TAP,USD,New York Stock Exchange,Consumer Defensive,Beverages‚ Brewers
+TDG,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+TDY,USD,New York Stock Exchange,Technology,Scientific & Technical Instruments
+TEL,USD,New York Stock Exchange,Technology,Electronic Components
+TER,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+TFC,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+TFX,USD,New York Stock Exchange,Healthcare,Medical Instruments & Supplies
+TGT,USD,New York Stock Exchange,Consumer Defensive,Discount Stores
+TJX,USD,New York Stock Exchange,Consumer Cyclical,Apparel Retail
+TMO,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+TMUS,USD,Nasdaq Global Select,Communication Services,Telecom Services
+TPR,USD,New York Stock Exchange,Consumer Cyclical,Luxury Goods
+TRMB,USD,Nasdaq Global Select,Technology,Scientific & Technical Instruments
+TROW,USD,Nasdaq Global Select,Financial Services,Asset Management
+TRV,USD,New York Stock Exchange,Financial Services,Insurance‚ Property & Casualty
+TSCO,USD,Nasdaq Global Select,Consumer Cyclical,Specialty Retail
+TSLA,USD,Nasdaq Global Select,Consumer Cyclical,Auto Manufacturers
+TSN,USD,New York Stock Exchange,Consumer Defensive,Farm Products
+TT,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+TTWO,USD,Nasdaq Global Select,Communication Services,Electronic Gaming & Multimedia
+TWTR,USD,New York Stock Exchange,Communication Services,Internet Content & Information
+TXN,USD,Nasdaq Global Select,Technology,Semiconductors
+TXT,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+TYL,USD,New York Stock Exchange,Technology,Software‚ Application
+UA,USD,New York Stock Exchange,Consumer Cyclical,Apparel Manufacturing
+UAA,USD,New York Stock Exchange,Consumer Cyclical,Apparel Manufacturing
+UAL,USD,Nasdaq Global Select,Industrials,Airlines
+UDR,USD,New York Stock Exchange,Real Estate,REIT‚ Residential
+UHS,USD,New York Stock Exchange,Healthcare,Medical Care Facilities
+ULTA,USD,Nasdaq Global Select,Consumer Cyclical,Specialty Retail
+UNH,USD,New York Stock Exchange,Healthcare,Healthcare Plans
+UNM,USD,New York Stock Exchange,Financial Services,Insurance‚ Life
+UNP,USD,New York Stock Exchange,Industrials,Railroads
+UPS,USD,New York Stock Exchange,Industrials,Integrated Freight & Logistics
+URI,USD,New York Stock Exchange,Industrials,Rental & Leasing Services
+USB,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+V,USD,New York Stock Exchange,Financial Services,Credit Services
+VFC,USD,New York Stock Exchange,Consumer Cyclical,Apparel Manufacturing
+VIAC,USD,Nasdaq Global Select,Communication Services,Entertainment
+VLO,USD,New York Stock Exchange,Energy,Oil & Gas Refining & Marketing
+VMC,USD,New York Stock Exchange,Basic Materials,Building Materials
+VNO,USD,New York Stock Exchange,Real Estate,REIT‚ Office
+VRSK,USD,Nasdaq Global Select,Industrials,Consulting Services
+VRSN,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+VRTX,USD,Nasdaq Global Select,Healthcare,Biotechnology
+VTR,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+VTRS,USD,Nasdaq Global Select,Healthcare,Drug Manufacturers‚ Specialty & Generic
+VZ,USD,New York Stock Exchange,Communication Services,Telecom Services
+WAB,USD,New York Stock Exchange,Industrials,Railroads
+WAT,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+WBA,USD,Nasdaq Global Select,Healthcare,Pharmaceutical Retailers
+WDC,USD,Nasdaq Global Select,Technology,Computer Hardware
+WEC,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+WELL,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+WFC,USD,New York Stock Exchange,Financial Services,Banks‚ Diversified
+WHR,USD,New York Stock Exchange,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+WLTW,USD,Nasdaq Global Select,Financial Services,Insurance Brokers
+WM,USD,New York Stock Exchange,Industrials,Waste Management
+WMB,USD,New York Stock Exchange,Energy,Oil & Gas Midstream
+WMT,USD,New York Stock Exchange,Consumer Defensive,Discount Stores
+WRB,USD,New York Stock Exchange,Financial Services,Insurance‚ Property & Casualty
+WRK,USD,New York Stock Exchange,Consumer Cyclical,Packaging & Containers
+WST,USD,New York Stock Exchange,Healthcare,Medical Instruments & Supplies
+WU,USD,New York Stock Exchange,Financial Services,Credit Services
+WY,USD,New York Stock Exchange,Real Estate,REIT‚ Specialty
+WYNN,USD,Nasdaq Global Select,Consumer Cyclical,Resorts & Casinos
+XEL,USD,Nasdaq Global Select,Utilities,Utilities‚ Regulated Electric
+XLNX,USD,Nasdaq Global Select,Technology,Semiconductors
+XOM,USD,New York Stock Exchange,Energy,Oil & Gas Integrated
+XRAY,USD,Nasdaq Global Select,Healthcare,Medical Instruments & Supplies
+XYL,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+YUM,USD,New York Stock Exchange,Consumer Cyclical,Restaurants
+ZBH,USD,New York Stock Exchange,Healthcare,Medical Devices
+ZBRA,USD,Nasdaq Global Select,Technology,Communication Equipment
+ZION,USD,Nasdaq Global Select,Financial Services,Banks‚ Regional
+ZTS,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ Specialty & Generic
+ASML,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+BIDU,USD,Nasdaq Global Select,Communication Services,Internet Content & Information
+CHKP,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+DOCU,USD,Nasdaq Global Select,Technology,Software‚ Application
+JD,USD,Nasdaq Global Select,Consumer Cyclical,Internet Retail
+KDP,USD,New York Stock Exchange,Consumer Defensive,Beverages‚ Non-Alcoholic
+LULU,USD,Nasdaq Global Select,Consumer Cyclical,Apparel Retail
+MELI,USD,Nasdaq Global Select,Consumer Cyclical,Internet Retail
+MRNA,USD,Nasdaq Global Select,Healthcare,Biotechnology
+MRVL,USD,Nasdaq Global Select,Technology,Semiconductors
+MTCH,USD,Nasdaq Global Select,Communication Services,Internet Content & Information
+NTES,USD,Nasdaq Global Select,Communication Services,Internet Content & Information
+OKTA,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+PDD,USD,Nasdaq Global Select,Consumer Cyclical,Internet Retail
+PTON,USD,Nasdaq Global Select,Consumer Cyclical,Leisure
+SGEN,USD,Nasdaq Global Select,Healthcare,Biotechnology
+SIRI,USD,Nasdaq Global Select,Communication Services,Broadcasting
+SPLK,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+TCOM,USD,Nasdaq Global Select,Consumer Cyclical,Travel Services
+TEAM,USD,Nasdaq Global Select,Technology,Software‚ Application
+WDAY,USD,Nasdaq Global Select,Technology,Software‚ Application
+ZM,USD,Nasdaq Global Select,Communication Services,Software‚ Application
+CBOE,USD,BATS,Financial Services,Financial Data & Stock Exchanges
+BABA,USD,New York Stock Exchange,Consumer Cyclical,Internet Retail
+BEKE,USD,New York Stock Exchange,Real Estate,Real Estate Services
+BILL,USD,New York Stock Exchange,Technology,Software‚ Application
+COIN,USD,Nasdaq Global Select,Technology,Software‚ Application
+DKNG,USD,Nasdaq Global Select,Consumer Cyclical,Gambling
+GWRE,USD,New York Stock Exchange,Technology,Software‚ Application
+HDB,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+LC,USD,New York Stock Exchange,Financial Services,Credit Services
+OPEN,USD,Nasdaq Global Select,Real Estate,Real Estate Services
+PATH,USD,New York Stock Exchange,Technology,Software‚ Infrastructure
+PINS,USD,New York Stock Exchange,Communication Services,Internet Content & Information
+SE,USD,New York Stock Exchange,Communication Services,Electronic Gaming & Multimedia
+SHOP,USD,New York Stock Exchange,Technology,Software‚ Application
+SI,USD,New York Stock Exchange,Financial Services,Banks‚ Regional
+SNAP,USD,New York Stock Exchange,Communication Services,Internet Content & Information
+SQ,USD,New York Stock Exchange,Technology,Software‚ Infrastructure
+STNE,USD,Nasdaq Global Select,Technology,Software‚ Application
+TCEHY,USD,Other OTC,Communication Services,Internet Content & Information
+TDOC,USD,New York Stock Exchange,Healthcare,Health Information Services
+TWLO,USD,New York Stock Exchange,Communication Services,Internet Content & Information
+Z,USD,Nasdaq Global Select,Communication Services,Internet Content & Information
+ACCD,USD,Nasdaq Global Select,Healthcare,Health Information Services
+ADPT,USD,Nasdaq Global Select,Healthcare,Biotechnology
+AQB,USD,Nasdaq Capital Market,Consumer Defensive,Farm Products
+ARCT,USD,Nasdaq Global Market,Healthcare,Biotechnology
+BEAM,USD,Nasdaq Global Select,Healthcare,Biotechnology
+BFLY,USD,New York Stock Exchange,Healthcare,Medical Devices
+BLI,USD,Nasdaq Global Select,Healthcare,Biotechnology
+CDNA,USD,Nasdaq Global Market,Healthcare,Diagnostics & Research
+CDXS,USD,Nasdaq Global Select,Healthcare,Biotechnology
+CERS,USD,Nasdaq Global Market,Healthcare,Biotechnology
+CGEN,USD,Nasdaq Global Market,Healthcare,Biotechnology
+CLLS,USD,Nasdaq Global Market,Healthcare,Biotechnology
+CMLF,USD,Nasdaq Global Select,Financial Services,Shell Companies
+CRSP,USD,Nasdaq Global Market,Healthcare,Biotechnology
+CSTL,USD,Nasdaq Global Market,Healthcare,Diagnostics & Research
+EDIT,USD,Nasdaq Global Select,Healthcare,Biotechnology
+EVGN,USD,Nasdaq Global Market,Healthcare,Biotechnology
+EXAS,USD,Nasdaq Capital Market,Healthcare,Diagnostics & Research
+FATE,USD,Nasdaq Global Market,Healthcare,Biotechnology
+GH,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+IONS,USD,Nasdaq Global Select,Healthcare,Biotechnology
+IOVA,USD,Nasdaq Global Market,Healthcare,Biotechnology
+MASS,USD,Nasdaq Global Market,Healthcare,Medical Devices
+MCRB,USD,Nasdaq Global Select,Healthcare,Biotechnology
+NSTG,USD,Nasdaq Global Market,Healthcare,Medical Instruments & Supplies
+NTLA,USD,Nasdaq Global Market,Healthcare,Biotechnology
+NVS,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ General
+NVTA,USD,New York Stock Exchange,Healthcare,Diagnostics & Research
+ONEM,USD,Nasdaq Global Select,Healthcare,Health Information Services
+ONVO,USD,Nasdaq Global Market,Healthcare,Diagnostics & Research
+PACB,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+PSNL,USD,Nasdaq Global Market,Healthcare,Diagnostics & Research
+PSTG,USD,New York Stock Exchange,Technology,Computer Hardware
+PSTI,USD,Nasdaq Capital Market,Healthcare,Biotechnology
+RPTX,USD,Nasdaq Global Select,Healthcare,Biotechnology
+RXRX,USD,Nasdaq Global Select,Healthcare,Biotechnology
+SDGR,USD,Nasdaq Global Select,Healthcare,Health Information Services
+SEER,USD,Nasdaq Global Select,Healthcare,Biotechnology
+SGFY,USD,New York Stock Exchange,Healthcare,Health Information Services
+SRPT,USD,Nasdaq Global Select,Healthcare,Biotechnology
+SURF,USD,Nasdaq Global Select,Healthcare,Biotechnology
+SYRS,USD,Nasdaq Global Select,Healthcare,Biotechnology
+TAK,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ Specialty & Generic
+TWST,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+TXG,USD,Nasdaq Global Select,Healthcare,Health Information Services
+VCYT,USD,Nasdaq Global Market,Healthcare,Biotechnology
+VEEV,USD,New York Stock Exchange,Healthcare,Health Information Services
+ZY,USD,Nasdaq,Basic Materials,Chemicals
+HUYA,USD,New York Stock Exchange,Communication Services,Entertainment
+IRDM,USD,Nasdaq Global Select,Communication Services,Telecom Services
+MTLS,USD,Nasdaq Global Select,Technology,Software‚ Application
+PD,USD,New York Stock Exchange,Technology,Software‚ Application
+PLTR,USD,New York Stock Exchange,Technology,Software‚ Infrastructure
+PRLB,USD,New York Stock Exchange,Industrials,Metal Fabrication
+ROKU,USD,Nasdaq Global Select,Communication Services,Entertainment
+SKLZ,USD,New York Stock Exchange,Communication Services,Electronic Gaming & Multimedia
+SPOT,USD,New York Stock Exchange,Communication Services,Internet Content & Information
+SSYS,USD,Nasdaq Global Select,Technology,Computer Hardware
+TSP,USD,Nasdaq Global Select,Industrials,Trucking
+TWOU,USD,Nasdaq Global Select,Consumer Defensive,Education & Training Services
+U,USD,New York Stock Exchange,Technology,Software‚ Application
+ACIC,USD,New York Stock Exchange,Financial Services,Shell Companies
+AONE,USD,New York Stock Exchange,Financial Services,Shell Companies
+AVAV,USD,Nasdaq Global Select,Industrials,Aerospace & Defense
+BLDE,USD,Nasdaq Capital Market,Financial Services,Airports & Air Services
+DDD,USD,New York Stock Exchange,Technology,Computer Hardware
+ESLT,USD,Nasdaq Global Select,Industrials,Aerospace & Defense
+GLEO,USD,New York Stock Exchange,Financial Services,Shell Companies
+KTOS,USD,Nasdaq Global Select,Industrials,Aerospace & Defense
+MGA,USD,New York Stock Exchange,Consumer Cyclical,Auto Parts
+NIU,USD,Nasdaq Global Select,Consumer Cyclical,Auto Manufacturers
+NNDM,USD,Nasdaq Capital Market,Technology,Computer Hardware
+RAVN,USD,Nasdaq Global Select,Industrials,Specialty Industrial Machinery
+VUZI,USD,Nasdaq Capital Market,Technology,Consumer Electronics
+WKHS,USD,Nasdaq Capital Market,Consumer Cyclical,Auto Manufacturers
+XONE,USD,Nasdaq Global Select,Industrials,Specialty Industrial Machinery
+ADYEY,USD,Other OTC,Technology,Software‚ Infrastructure
+API,USD,Nasdaq Global Select,Technology,Software‚ Application
+HUBS,USD,New York Stock Exchange,Technology,Software‚ Application
+NET,USD,New York Stock Exchange,Technology,Software‚ Infrastructure
+RBLX,USD,New York Stock Exchange,Communication Services,Electronic Gaming & Multimedia
+SNOW,USD,New York Stock Exchange,Technology,Software‚ Application
+TREE,USD,Nasdaq Global Select,Financial Services,Mortgage Finance
+TTD,USD,Nasdaq Global Market,Technology,Software‚ Application
+AIR,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+HEI,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+RTP,USD,New York Stock Exchange,Financial Services,Shell Companies
+SPCE,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+SPR,USD,New York Stock Exchange,Industrials,Aerospace & Defense
+AZN,USD,New York Stock Exchange,Healthcare,Drug Manufacturers‚ General
+EBR,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Electric
+EHC,USD,New York Stock Exchange,Healthcare,Medical Care Facilities
+FDS,USD,New York Stock Exchange,Financial Services,Financial Data & Stock Exchanges
+GLPI,USD,Nasdaq Global Select,Real Estate,REIT‚ Specialty
+MPW,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+SNY,USD,Nasdaq Global Select,Healthcare,Drug Manufacturers‚ General
+TSM,USD,New York Stock Exchange,Technology,Semiconductors
+ACIW,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+BRKR,USD,Nasdaq Global Select,Healthcare,Medical Devices
+CACI,USD,New York Stock Exchange,Technology,Information Technology Services
+CGNX,USD,Nasdaq Global Select,Technology,Scientific & Technical Instruments
+CIEN,USD,New York Stock Exchange,Technology,Communication Equipment
+CLGX,USD,New York Stock Exchange,Technology,Information Technology Services
+ENTG,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+EPAM,USD,New York Stock Exchange,Technology,Information Technology Services
+FICO,USD,New York Stock Exchange,Technology,Software‚ Application
+FN,USD,New York Stock Exchange,Technology,Electronic Components
+G,USD,New York Stock Exchange,Technology,Information Technology Services
+HIMX,USD,Nasdaq Global Select,Technology,Semiconductors
+ICLR,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+INFY,USD,New York Stock Exchange,Technology,Information Technology Services
+JKS,USD,New York Stock Exchange,Technology,Solar
+LITE,USD,Nasdaq Global Select,Technology,Communication Equipment
+LMAT,USD,Nasdaq Global Market,Healthcare,Medical Instruments & Supplies
+LOGI,USD,Nasdaq Global Select,Technology,Computer Hardware
+MASI,USD,Nasdaq Global Select,Healthcare,Medical Instruments & Supplies
+MKSI,USD,Nasdaq Global Select,Technology,Scientific & Technical Instruments
+NEOG,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+NICE,USD,Nasdaq Global Select,Technology,Software‚ Application
+QDEL,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research
+SEDG,USD,Nasdaq Global Select,Technology,Solar
+SNX,USD,New York Stock Exchange,Technology,Information Technology Services
+SPNS,USD,Nasdaq Capital Market,Technology,Software‚ Application
+SPSC,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+STMP,USD,Nasdaq Global Select,Technology,Software‚ Application
+TTEC,USD,Nasdaq Global Select,Technology,Information Technology Services
+UI,USD,New York Stock Exchange,Technology,Communication Equipment
+UMC,USD,New York Stock Exchange,Technology,Semiconductors
+VMW,USD,New York Stock Exchange,Technology,Software‚ Infrastructure
+WIT,USD,New York Stock Exchange,Technology,Information Technology Services
+ACAD,USD,Nasdaq Global Select,Healthcare,Biotechnology
+ACLS,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+ADTN,USD,Nasdaq Global Select,Technology,Communication Equipment
+AEIS,USD,Nasdaq Global Select,Industrials,Electrical Equipment & Parts
+AGYS,USD,Nasdaq Global Select,Technology,Software‚ Application
+AI,USD,New York Stock Exchange,Technology,Information Technology Services
+ALRM,USD,Nasdaq Global Select,Technology,Software‚ Application
+AOSL,USD,Nasdaq Global Select,Technology,Semiconductors
+APPF,USD,Nasdaq Global Market,Technology,Software‚ Application
+APPS,USD,Nasdaq Capital Market,Technology,Software‚ Application
+APT,USD,NYSE American,Industrials,Building Products & Equipment
+ATSG,USD,Nasdaq Global Select,Industrials,Integrated Freight & Logistics
+BCOV,USD,Nasdaq Global Select,Technology,Software‚ Application
+BL,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+BPMC,USD,Nasdaq Global Select,Healthcare,Biotechnology
+CALX,USD,New York Stock Exchange,Technology,Software‚ Application
+CAMT,USD,Nasdaq Global Market,Technology,Semiconductor Equipment & Materials
+CHRS,USD,Nasdaq Global Market,Healthcare,Biotechnology
+CORT,USD,Nasdaq Capital Market,Healthcare,Biotechnology
+COUP,USD,Nasdaq Global Select,Technology,Software‚ Application
+COWN,USD,Nasdaq Global Select,Financial Services,Capital Markets
+CRTO,USD,Nasdaq Global Select,Technology,Advertising Agencies
+CSOD,USD,Nasdaq Global Select,Technology,Software‚ Application
+DRNA,USD,Nasdaq Global Select,Healthcare,Biotechnology
+ENV,USD,New York Stock Exchange,Technology,Software‚ Application
+EVBG,USD,Nasdaq Global Market,Technology,Software‚ Application
+EXPI,USD,Nasdaq Global Market,Real Estate,Real Estate Services
+FIVN,USD,Nasdaq Global Market,Technology,Software‚ Infrastructure
+FNGR,USD,Other OTC,Communication Services,Telecom Services
+FORTY,USD,Nasdaq Global Select,Technology,Information Technology Services
+GDS,USD,Nasdaq Global Market,Technology,Information Technology Services
+GLOB,USD,New York Stock Exchange,Technology,Software‚ Application
+GMAB,USD,Nasdaq Global Select,Healthcare,Biotechnology
+ICHR,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+ICLK,USD,Nasdaq Global Market,Communication Services,Advertising Agencies
+IDN,USD,Nasdaq Global Market,Technology,Software‚ Application
+IIVI,USD,Nasdaq Global Select,Technology,Scientific & Technical Instruments
+IMXI,USD,Nasdaq Capital Market,Technology,Information Technology Services
+IRBT,USD,Nasdaq Global Select,Technology,Consumer Electronics
+ITI,USD,Nasdaq Capital Market,Technology,Communication Equipment
+JBL,USD,New York Stock Exchange,Technology,Electronic Components
+KPTI,USD,Nasdaq Global Select,Healthcare,Biotechnology
+MANT,USD,Nasdaq Global Select,Technology,Software‚ Application
+MDB,USD,Nasdaq Global Market,Technology,Software‚ Infrastructure
+MIME,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+NBIX,USD,Nasdaq Global Select,Healthcare,Biotechnology
+NVAX,USD,Nasdaq Global Select,Healthcare,Biotechnology
+OCUL,USD,Nasdaq Global Market,Healthcare,Biotechnology
+ONTO,USD,New York Stock Exchange,Technology,Semiconductors
+PCTY,USD,Nasdaq Global Select,Technology,Software‚ Application
+PODD,USD,Nasdaq Global Select,Healthcare,Medical Devices
+PRGS,USD,Nasdaq Global Select,Technology,Software‚ Application
+PTCT,USD,Nasdaq Global Select,Healthcare,Biotechnology
+QLYS,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+QTWO,USD,New York Stock Exchange,Technology,Software‚ Application
+RADA,USD,Nasdaq Capital Market,Industrials,Aerospace & Defense
+RGEN,USD,Nasdaq Global Select,Healthcare,Medical Instruments & Supplies
+RPD,USD,Nasdaq Global Market,Technology,Software‚ Application
+SAIC,USD,New York Stock Exchange,Technology,Information Technology Services
+SAIL,USD,New York Stock Exchange,Technology,Software‚ Infrastructure
+SHSP,USD,Nasdaq Capital Market,Technology,Software‚ Application
+TAL,USD,New York Stock Exchange,Consumer Defensive,Education & Training Services
+TNDM,USD,Nasdaq Global Market,Healthcare,Medical Devices
+UCTT,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+UPLD,USD,Nasdaq Global Market,Technology,Software‚ Application
+VECO,USD,Nasdaq Global Select,Technology,Semiconductor Equipment & Materials
+VHC,USD,NYSE American,Technology,Software‚ Infrastructure
+VIRT,USD,Nasdaq Global Select,Financial Services,Capital Markets
+VSAT,USD,Nasdaq Global Select,Technology,Communication Equipment
+WIX,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+WK,USD,New York Stock Exchange,Technology,Software‚ Application
+XLRN,USD,Nasdaq Global Market,Healthcare,Biotechnology
+YNDX,USD,Nasdaq Global Select,Communication Services,Internet Content & Information
+ZEN,USD,New York Stock Exchange,Technology,Software‚ Application
+ZIXI,USD,Nasdaq Global Select,Technology,Software‚ Infrastructure
+CHCT,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+CHGG,USD,New York Stock Exchange,Consumer Defensive,Education & Training Services
+CMC,USD,New York Stock Exchange,Basic Materials,Steel
+COKE,USD,Nasdaq Global Select,Consumer Defensive,Beverages‚ Non-Alcoholic
+CONE,USD,Nasdaq Global Select,Real Estate,REIT‚ Specialty
+CRH,USD,New York Stock Exchange,Basic Materials,Building Materials
+CTRE,USD,Nasdaq Global Select,Real Estate,REIT‚ Healthcare Facilities
+CUBE,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+DOC,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+EGP,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+ENSG,USD,Nasdaq Global Select,Healthcare,Medical Care Facilities
+FRPT,USD,Nasdaq Global Market,Consumer Defensive,Packaged Foods
+HASI,USD,New York Stock Exchange,Real Estate,REIT‚ Specialty
+HR,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+KWR,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+LII,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+LSI,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+MDU,USD,New York Stock Exchange,Basic Materials,Building Materials
+MED,USD,New York Stock Exchange,Consumer Cyclical,Personal Services
+NEP,USD,New York Stock Exchange,Utilities,Utilities‚ Renewable
+NHI,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+NOMD,USD,New York Stock Exchange,Consumer Defensive,Packaged Foods
+NSA,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+NSP,USD,New York Stock Exchange,Industrials,Staffing & Employment Services
+OLLI,USD,Nasdaq Global Market,Consumer Defensive,Discount Stores
+PCH,USD,Nasdaq Global Select,Real Estate,REIT‚ Specialty
+QTS,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+REGI,USD,Nasdaq Global Select,Energy,Oil & Gas Refining & Marketing
+REXR,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+RPM,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+SAM,USD,New York Stock Exchange,Consumer Defensive,Beverages‚ Brewers
+SJW,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Water
+SMG,USD,New York Stock Exchange,Basic Materials,Agricultural Inputs
+STAG,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+STOR,USD,New York Stock Exchange,Real Estate,REIT‚ Diversified
+TRNO,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+WMK,USD,New York Stock Exchange,Consumer Defensive,Grocery Stores
+WMS,USD,New York Stock Exchange,Industrials,Building Products & Equipment
+WPC,USD,New York Stock Exchange,Real Estate,REIT‚ Diversified
+WSM,USD,New York Stock Exchange,Consumer Cyclical,Specialty Retail
+WTRG,USD,New York Stock Exchange,Utilities,Utilities‚ Regulated Water
+AA,USD,New York Stock Exchange,Basic Materials,Aluminum
+AU,USD,New York Stock Exchange,Basic Materials,Gold
+BG,USD,New York Stock Exchange,Consumer Defensive,Farm Products
+BHP,USD,New York Stock Exchange,Basic Materials,Other Industrial Metals & Mining
+CBT,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+CC,USD,New York Stock Exchange,Basic Materials,Specialty Chemicals
+EPD,USD,New York Stock Exchange,Energy,Oil & Gas Midstream
+FLR,USD,New York Stock Exchange,Industrials,Engineering & Construction
+HUN,USD,New York Stock Exchange,Basic Materials,Chemicals
+PAA,USD,New York Stock Exchange,Energy,Oil & Gas Midstream
+RIG,USD,New York Stock Exchange,Energy,Oil & Gas Drilling
+SCCO,USD,New York Stock Exchange,Basic Materials,Copper
+VALE,USD,New York Stock Exchange,Basic Materials,Other Industrial Metals & Mining
+AAON,USD,Nasdaq Global Select,Industrials,Building Products & Equipment
+AIMC,USD,Nasdaq Global Select,Industrials,Specialty Industrial Machinery
+AIN,USD,New York Stock Exchange,Consumer Cyclical,Textile Manufacturing
+ALG,USD,New York Stock Exchange,Industrials,Farm & Heavy Construction Machinery
+AYI,USD,New York Stock Exchange,Industrials,Electrical Equipment & Parts
+BC,USD,New York Stock Exchange,Consumer Cyclical,Leisure
+BMI,USD,New York Stock Exchange,Industrials,Electrical Equipment & Parts
+CPT,USD,New York Stock Exchange,Real Estate,REIT‚ Residential
+CSL,USD,New York Stock Exchange,Industrials,Building Products & Equipment
+CTB,USD,New York Stock Exchange,Consumer Cyclical,Auto Parts
+CVCO,USD,Nasdaq Global Select,Consumer Cyclical,Residential Construction
+DCI,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+DECK,USD,New York Stock Exchange,Consumer Cyclical,Footwear & Accessories
+DORM,USD,Nasdaq Global Select,Consumer Cyclical,Auto Parts
+ENS,USD,New York Stock Exchange,Industrials,Electrical Equipment & Parts
+EXP,USD,New York Stock Exchange,Basic Materials,Building Materials
+FELE,USD,Nasdaq Global Select,Industrials,Specialty Industrial Machinery
+FR,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+GGG,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+GTY,USD,New York Stock Exchange,Real Estate,REIT‚ Retail
+HPP,USD,New York Stock Exchange,Real Estate,REIT‚ Office
+ITT,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+JOUT,USD,Nasdaq Global Select,Consumer Cyclical,Leisure
+KRC,USD,New York Stock Exchange,Real Estate,REIT‚ Office
+LNN,USD,New York Stock Exchange,Industrials,Farm & Heavy Construction Machinery
+LPX,USD,New York Stock Exchange,Industrials,Building Products & Equipment
+LTC,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+LZB,USD,New York Stock Exchange,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+MNR,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+MTH,USD,New York Stock Exchange,Consumer Cyclical,Residential Construction
+MWA,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+NDSN,USD,Nasdaq Global Select,Industrials,Specialty Industrial Machinery
+OFLX,USD,Nasdaq Global Market,Industrials,Specialty Industrial Machinery
+PGTI,USD,New York Stock Exchange,Industrials,Building Products & Equipment
+PSB,USD,New York Stock Exchange,Real Estate,REIT‚ Diversified
+RBC,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+ROLL,USD,Nasdaq Global Select,Industrials,Tools & Accessories
+SSD,USD,New York Stock Exchange,Industrials,Building Products & Equipment
+SUI,USD,New York Stock Exchange,Real Estate,REIT‚ Residential
+THRM,USD,Nasdaq Global Select,Consumer Cyclical,Auto Parts
+TNC,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+TTC,USD,New York Stock Exchange,Industrials,Tools & Accessories
+UFPI,USD,Nasdaq Global Select,Basic Materials,Lumber & Wood Production
+VMI,USD,New York Stock Exchange,Industrials,Metal Fabrication
+WGO,USD,New York Stock Exchange,Consumer Cyclical,Recreational Vehicles
+WIRE,USD,Nasdaq Global Select,Industrials,Electrical Equipment & Parts
+WOR,USD,New York Stock Exchange,Basic Materials,Metal Fabrication
+WTS,USD,New York Stock Exchange,Industrials,Specialty Industrial Machinery
+HTA,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+IIPR,USD,New York Stock Exchange,Real Estate,REIT‚ Industrial
+OHI,USD,New York Stock Exchange,Real Estate,REIT‚ Healthcare Facilities
+AI.PA,EUR,Paris,Basic Materials,Chemicals
+ARRY,USD,Nasdaq Global Market,Technology,Solar
+AY,USD,Nasdaq Global Select,Utilities,Utilities‚ Renewable
+BE,USD,New York Stock Exchange,Industrials,Electrical Equipment & Parts
+BLDP.TO,CAD,Toronto,Industrials,Specialty Industrial Machinery
+CIG,USD,New York Stock Exchange,Utilities,Utilities‚ Diversified
+DQ,USD,New York Stock Exchange,Technology,Semiconductor Equipment & Materials
+DYA.TO,CAD,Toronto,Industrials,Specialty Industrial Machinery
+FCEL,USD,Nasdaq Global Market,Industrials,Electrical Equipment & Parts
+FSLR,USD,Nasdaq Global Select,Technology,Solar
+HDRO,USD,NYSEArca,,
+ICLN,USD,Nasdaq Global Market,,
+INE.TO,CAD,Toronto,Utilities,Utilities‚ Renewable
+KRBN,USD,NYSEArca,Technology,
+NIO,USD,New York Stock Exchange,Consumer Cyclical,Auto Manufacturers
+NOVA,USD,New York Stock Exchange,Technology,Solar
+ON,USD,Nasdaq Global Select,Technology,Semiconductors
+ORA,USD,New York Stock Exchange,Utilities,Utilities‚ Renewable
+PLUG,USD,Nasdaq Capital Market,Industrials,Electrical Equipment & Parts
+RUN,USD,Nasdaq Global Select,Technology,Solar
+TAN,USD,New York Stock Exchange Arca,,
+VIVO,USD,Nasdaq Global Select,Healthcare,Diagnostics & Research

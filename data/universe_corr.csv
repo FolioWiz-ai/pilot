@@ -1,0 +1,875 @@
+ticker,ARKG,ARKK,ARKQ,ARKW,ARKX,BUG,DJIA 30,FW-bloom,FW-clean_energy,FW-concrete,FW-cyclicals,FW-earthy,FW-exosphere,FW-techtonic,FW-yosemite,NASDAQ 100,S&P 500,XLB,XLC,XLE,XLF,XLI,XLK,XLP,XLRE,XLU,XLV,XLY,total,company,sector,industry,ref_etf
+NOV,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,NOV,Energy,Oil & Gas Equipment & Services,XLE
+A,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Agilent Technologies,Healthcare,Diagnostics & Research,XLV
+AA,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Alcoa,Basic Materials,Aluminum,XLB
+AAL,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,American Airlines Group,Industrials,Airlines,XLI
+AAON,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,AAON,Industrials,Building Products & Equipment,XLI
+AAP,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Advance Auto Parts,Consumer Cyclical,Specialty Retail,XLY
+AAPL,,,,,,,1,,,,,,,,,1,1,,,,,,1,,,,,,4,Apple,Technology,Consumer Electronics,XLK
+ABBV,1,,,,,,,1,,,,,,,1,,1,,,,,,,,,,1,,5,AbbVie,Healthcare,Drug Manufacturers‚ General,XLV
+ABC,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,AmerisourceBergen,Healthcare,Medical Distribution,XLV
+ABMD,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Abiomed,Healthcare,Medical Devices,XLV
+ABT,,,,,,,,1,,,,,,,1,,1,,,,,,,,,,1,,4,Abbott Laboratories,Healthcare,Medical Devices,XLV
+ACAD,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,ACADIA Pharmaceuticals,Healthcare,Biotechnology,XLV
+ACCD,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Accolade,Healthcare,Health Information Services,XLV
+ACIC,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,2,Atlas Crest Investment,Financial Services,Shell Companies,XLF
+ACIW,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,ACI Worldwide,Technology,Software‚ Infrastructure,XLK
+ACLS,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Axcelis Technologies,Technology,Semiconductor Equipment & Materials,XLK
+ACN,,,,,,,,,,,,,,1,1,,1,,,,,,1,,,,,,4,Accenture,Technology,Information Technology Services,XLK
+ADBE,,,,,,,,,,,,,1,1,,1,1,,,,,,1,,,,,,5,Adobe,Technology,Software‚ Infrastructure,XLK
+ADI,,,,,,,,,,,,,,,,1,1,,,,,,1,,,,,,3,Analog Devices,Technology,Semiconductors,XLK
+ADM,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Archer-Daniels Midland,Consumer Defensive,Farm Products,XLP
+ADP,,,,,,,,,,,,,,,1,1,1,,,,,,1,,,,,,4,Automatic Data Processing,Industrials,Staffing & Employment Services,XLI
+ADPT,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Adaptive Biotechnologies,Healthcare,Biotechnology,XLV
+ADSK,,,1,,1,,,,,,,,1,1,,1,1,,,,,,1,,,,,,7,Autodesk,Technology,Software‚ Application,XLK
+ADTN,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Adtran,Technology,Communication Equipment,XLK
+ADYYF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Adyen,#N/A,#N/A,#N/A
+AEE,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,Ameren,Utilities,Utilities‚ Regulated Electric,XLU
+AEIS,,,,,,,,,,,1,,1,,,,,,,,,,,,,,,,2,Advanced Energy Indus,Industrials,Electrical Equipment & Parts,XLI
+AEP,,,,,,,,,,,,,,,1,1,1,,,,,,,,,1,,,4,American Electric Power,Utilities,Utilities‚ Regulated Electric,XLU
+AFGYF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,AFC Energy,#N/A,#N/A,#N/A
+AGPPF,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Anglo American Platinum,#N/A,#N/A,#N/A
+AGYS,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Agilysys,Technology,Software‚ Application,XLK
+AI,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,C3.ai,Technology,Information Technology Services,XLK
+AI.PA,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,AIR LIQUIDE,Basic Materials,Chemicals,XLB
+AIG,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,American Intl Gr,Financial Services,Insurance‚ Diversified,XLF
+AIMC,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Altra Industrial Motion,Industrials,Specialty Industrial Machinery,XLI
+AIN,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Albany Intl,Consumer Cyclical,Textile Manufacturing,XLY
+AIR,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,AAR,Industrials,Aerospace & Defense,XLI
+AIZ,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Assurant,Financial Services,Insurance‚ Specialty,XLF
+AJG,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Arthur J. Gallagher,Financial Services,Insurance Brokers,XLF
+AKAM,,,,,,,,,,,,,1,1,,,1,,,,,,1,,,,,,4,Akamai Technologies,Technology,Software‚ Infrastructure,XLK
+ALB,,,,,,,,,1,,,1,,,,,1,1,,,,,,,,,,,4,Albemarle,Basic Materials,Specialty Chemicals,XLB
+ALG,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Alamo Group,Industrials,Farm & Heavy Construction Machinery,XLI
+ALGN,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,3,Align Tech,Healthcare,Medical Devices,XLV
+ALK,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Alaska Air Gr,Industrials,Airlines,XLI
+ALL,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Allstate,Financial Services,Insurance‚ Property & Casualty,XLF
+ALLE,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Allegion,Industrials,Security & Protection Services,XLI
+ALRM,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Alarm.com Holdings,Technology,Software‚ Application,XLK
+ALXN,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,3,Alexion Pharmaceuticals,Healthcare,Biotechnology,XLV
+AMAT,,,,,,,,,,,,,,1,,1,1,,,,,,1,,,,,,4,Applied Materials,Technology,Semiconductor Equipment & Materials,XLK
+AMCR,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Amcor,Consumer Cyclical,Packaging & Containers,XLY
+AMD,,,,,,,,,,,,,1,,,1,1,,,,,,1,,,,,,4,Advanced Micro Devices,Technology,Semiconductors,XLK
+AME,,,,,,,,,,,1,,,,,,1,,,,,1,,,,,,,3,AMETEK,Industrials,Specialty Industrial Machinery,XLI
+AMGN,,,,,,,1,,,,,,,,,1,1,,,,,,,,,,1,,4,Amgen,Healthcare,Drug Manufacturers‚ General,XLV
+AMP,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Ameriprise Financial,Financial Services,Asset Management,XLF
+AMT,,,,,,,,1,,1,,,,,1,,1,,,,,,,,1,,,,5,American Tower,Real Estate,REIT‚ Specialty,XLRE
+AMZN,,,,,1,,,,,,,,1,1,,1,1,,,,,,,,,,,1,7,Amazon.com,Consumer Cyclical,Internet Retail,XLY
+ANET,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Arista Networks,Technology,Computer Hardware,XLK
+ANSS,,,1,,1,,,,,,,,,1,,1,1,,,,,,1,,,,,,6,Ansys,Technology,Software‚ Application,XLK
+ANTM,,,,,,,,1,,,,,,,,,1,,,,,,,,,,1,,3,Anthem,Healthcare,Healthcare Plans,XLV
+AON,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Aon,Financial Services,Insurance Brokers,XLF
+AONE,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,One,Financial Services,Shell Companies,XLF
+AOS,,,,,,,,,,,1,,,,,,1,,,,,1,,,,,,,3,A.O. Smith,Industrials,Specialty Industrial Machinery,XLI
+AOSL,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Alpha & Omega,Technology,Semiconductors,XLK
+APA,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,APA,Basic Materials,Oil & Gas E&P,XLB
+APD,,,,,,,,,,,,1,,,,,1,1,,,,,,,,,,,3,Air Products & Chemicals,Basic Materials,Chemicals,XLB
+APH,,,,,,,,,,,,,,1,,,1,,,,,,1,,,,,,3,Amphenol,Technology,Electronic Components,XLK
+API,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,Agora,Technology,Software‚ Application,XLK
+APPF,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,AppFolio,Technology,Software‚ Application,XLK
+APPS,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Digital Turbine,Technology,Software‚ Application,XLK
+APT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Alpha Pro Tech,Industrials,Building Products & Equipment,XLI
+APTV,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Aptiv,Consumer Cyclical,Auto Parts,XLY
+AQB,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,AquaBounty Technologies,Consumer Defensive,Farm Products,XLP
+ARCT,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Arcturus Therapeutics,Healthcare,Biotechnology,XLV
+ARE,,,,,,,,,,1,1,,,,1,,1,,,,,,,,1,,,,5,Alexandria Real Estate,Real Estate,REIT‚ Office,XLRE
+ARRY,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Array Technologies,Technology,Solar,XLK
+ATEN,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,A10 Networks,#N/A,#N/A,#N/A
+ATO,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,Atmos Energy,Utilities,Utilities‚ Regulated Gas,XLU
+ATSG,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Air Transport Services Gr,Industrials,Integrated Freight & Logistics,XLI
+ATVI,,,,,,,,,,,,,,,,1,1,,1,,,,,,,,,,3,Activision Blizzard,Communication Services,Electronic Gaming & Multimedia,XLC
+AU,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Anglogold Ashanti,Basic Materials,Gold,XLB
+AVAV,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,2,AeroVironment,Industrials,Aerospace & Defense,XLI
+AVB,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,AvalonBay Communities,Real Estate,REIT‚ Residential,XLRE
+AVGO,,,,,,,,1,,,,,,,1,1,1,,,,,,1,,,,,,5,Broadcom,Technology,Semiconductors,XLK
+AVY,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Avery Dennison,Industrials,Business Equipment & Supplies,XLI
+AWK,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,American Water Works Co,Utilities,Utilities‚ Regulated Water,XLU
+AXP,,,,,,,1,,,,,,,,,,1,,,,1,,,,,,,,3,American Express,Financial Services,Credit Services,XLF
+AY,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Atlantica Sustainable,Utilities,Utilities‚ Renewable,XLU
+AYI,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Acuity Brands,Industrials,Electrical Equipment & Parts,XLI
+AZN,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,AstraZeneca,Healthcare,Drug Manufacturers‚ General,XLV
+AZO,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,1,3,AutoZone,Consumer Cyclical,Specialty Retail,XLY
+BA,,,,,1,,1,,,,,,,,,,1,,,,,1,,,,,,,4,Boeing,Industrials,Aerospace & Defense,XLI
+BABA,,,1,,1,,,,,,,,1,,,,,,,,,,,,,,,,4,Alibaba Group Holding,Consumer Cyclical,Internet Retail,XLY
+BASFY,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Basf,#N/A,#N/A,#N/A
+BAX,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Baxter Intl,Healthcare,Medical Instruments & Supplies,XLV
+BBY,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,1,3,Best Buy Co,Consumer Cyclical,Specialty Retail,XLY
+BC,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Brunswick,Consumer Cyclical,Leisure,XLY
+BCOV,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Brightcove,Technology,Software‚ Application,XLK
+BDX,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,"Becton, Dickinson",Healthcare,Medical Instruments & Supplies,XLV
+BE,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Bloom Energy,Industrials,Electrical Equipment & Parts,XLI
+BEAM,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Beam Therapeutics,Healthcare,Biotechnology,XLV
+BEKE,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,3,KE Holdings,Real Estate,Real Estate Services,XLRE
+BF.B,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Brown-Forman,#N/A,#N/A,#N/A
+BFLY,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Butterfly Network,Healthcare,Medical Devices,XLV
+BG,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Bunge,Consumer Defensive,Farm Products,XLP
+BHP,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,BHP Group,Basic Materials,Other Industrial Metals & Mining,XLB
+BIDU,,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,2,Baidu,Communication Services,Internet Content & Information,XLC
+BIIB,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,3,Biogen,Healthcare,Drug Manufacturers‚ General,XLV
+BILL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Bill.com Holdings,Technology,Software‚ Application,XLK
+BIO,,,,,,,,1,,,,,,1,,,1,,,,,,,,,,1,,4,Bio-Rad Laboratories,Healthcare,Medical Devices,XLV
+BK,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Bank of New York Mellon,Financial Services,Asset Management,XLF
+BKNG,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,1,3,Booking Holdings,Consumer Cyclical,Travel Services,XLY
+BKR,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Baker Hughes,Energy,Oil & Gas Equipment & Services,XLE
+BL,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,BlackLine,Technology,Software‚ Infrastructure,XLK
+BLDE,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,Blade Air Mobility,Financial Services,Airports & Air Services,XLF
+BLDP.TO,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Ballard Power Systems,Industrials,Specialty Industrial Machinery,XLI
+BLI,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Berkeley Lights,Healthcare,Biotechnology,XLV
+BLK,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,BlackRock,Financial Services,Asset Management,XLF
+BLL,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Ball,Consumer Cyclical,Packaging & Containers,XLY
+BMI,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Badger Meter,Industrials,Electrical Equipment & Parts,XLI
+BMY,1,,,,,,,1,,,,,,,1,,1,,,,,,,,,,1,,5,Bristol-Myers Squibb,Healthcare,Drug Manufacturers‚ General,XLV
+BPMC,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Blueprint Medicines,Healthcare,Biotechnology,XLV
+BR,,,,,,,,,,,,,,1,1,,1,,,,,,1,,,,,,4,Broadridge Financial Soln,Technology,Information Technology Services,XLK
+BRK.B,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Berkshire Hathaway,Financial Services,Insurance‚ Diversified,XLF
+BRLXF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Boralex,#N/A,#N/A,#N/A
+BSX,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Boston Scientific,Healthcare,Medical Devices,XLV
+BWA,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,BorgWarner,Consumer Cyclical,Auto Parts,XLY
+BYDDY,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,BYD,#N/A,#N/A,#N/A
+C,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Citigroup,Financial Services,Banks‚ Diversified,XLF
+CACI,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,CACI International,Technology,Information Technology Services,XLK
+CAG,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,Conagra Brands,Consumer Defensive,Packaged Foods,XLP
+CAH,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,3,Cardinal Health,Healthcare,Medical Distribution,XLV
+CALX,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Calix,Technology,Software‚ Application,XLK
+CAMT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Camtek,Technology,Semiconductor Equipment & Materials,XLK
+CARR,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Carrier Global,Industrials,Building Products & Equipment,XLI
+CAT,,,1,,,,1,,,,,,,,,,1,,,,,1,,,,,,,4,Caterpillar,Industrials,Farm & Heavy Construction Machinery,XLI
+CB,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Chubb,Financial Services,Insurance‚ Property & Casualty,XLF
+CBOE,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,Cboe Global Markets,Financial Services,Financial Data & Stock Exchanges,XLF
+CBRE,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,CBRE Group,Real Estate,Real Estate Services,XLRE
+CBT,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Cabot,Basic Materials,Specialty Chemicals,XLB
+CC,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Chemours,Basic Materials,Specialty Chemicals,XLB
+CCI,,,,,,,,1,,1,,,,,1,,1,,,,,,,,1,,,,5,Crown Castle Intl,Real Estate,REIT‚ Specialty,XLRE
+CCL,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Carnival,Consumer Cyclical,Travel Services,XLY
+CDNA,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,2,CareDx,Healthcare,Diagnostics & Research,XLV
+CDNS,,,,,,,,,,,,,,1,,1,1,,,,,,1,,,,,,4,Cadence Design Systems,Technology,Software‚ Application,XLK
+CDW,,,,,,,,,,,,,,1,,1,1,,,,,,1,,,,,,4,CDW,Technology,Information Technology Services,XLK
+CDXS,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Codexis,Healthcare,Biotechnology,XLV
+CE,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Celanese,Basic Materials,Chemicals,XLB
+CERN,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,3,Cerner,Healthcare,Health Information Services,XLV
+CERS,1,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,3,Cerus,Healthcare,Biotechnology,XLV
+CF,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,CF Industries Holdings,Basic Materials,Agricultural Inputs,XLB
+CFG,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Citizens Financial Group,Financial Services,Banks‚ Regional,XLF
+CGEN,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Compugen,Healthcare,Biotechnology,XLV
+CGNX,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Cognex,Technology,Scientific & Technical Instruments,XLK
+CHCT,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,Community Healthcare,Real Estate,REIT‚ Healthcare Facilities,XLRE
+CHD,,,,,,,,1,,,,,,,1,,1,,,,,,,1,,,,,4,Church & Dwight Co,Consumer Defensive,Household & Personal Products,XLP
+CHGG,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Chegg,Consumer Defensive,Education & Training Services,XLP
+CHKP,,,,,,1,,,,,,,,1,,1,,,,,,,,,,,,,3,Check Point Software,Technology,Software‚ Infrastructure,XLK
+CHRS,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Coherus BioSciences,Healthcare,Biotechnology,XLV
+CHRW,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,C.H. Robinson Worldwide,Industrials,Integrated Freight & Logistics,XLI
+CHTR,,,,,,,,,,,,,,,,1,1,,1,,,,,,,,,,3,Charter Communications,Communication Services,Entertainment,XLC
+CI,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Cigna,Healthcare,Healthcare Plans,XLV
+CIEN,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Ciena,Technology,Communication Equipment,XLK
+CIG,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Energy Co of Minas Gerais,Utilities,Utilities‚ Diversified,XLU
+CINF,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Cincinnati Financial,Financial Services,Insurance‚ Property & Casualty,XLF
+CL,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Colgate-Palmolive,Consumer Defensive,Household & Personal Products,XLP
+CLGX,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,CoreLogic,Technology,Information Technology Services,XLK
+CLLS,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Cellectis,Healthcare,Biotechnology,XLV
+CLX,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,Clorox,Consumer Defensive,Household & Personal Products,XLP
+CMA,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Comerica,Financial Services,Banks‚ Regional,XLF
+CMC,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Commercial Metals,Basic Materials,Steel,XLB
+CMCSA,,,,,,,,,,,,,,,,1,1,,1,,,,,,,,,,3,Comcast,Communication Services,Entertainment,XLC
+CME,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,CME Group,Financial Services,Financial Data & Stock Exchanges,XLF
+CMG,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Chipotle Mexican Grill,Consumer Cyclical,Restaurants,XLY
+CMI,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Cummins,Industrials,Specialty Industrial Machinery,XLI
+CMLF,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,CM Life Sciences,Financial Services,Shell Companies,XLF
+CMS,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,CMS Energy,Utilities,Utilities‚ Regulated Electric,XLU
+CNC,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Centene,Healthcare,Healthcare Plans,XLV
+CNP,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,CenterPoint Energy,Utilities,Utilities‚ Regulated Electric,XLU
+COF,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Capital One Financial,Financial Services,Credit Services,XLF
+COG,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Cabot Oil & Gas,Energy,Oil & Gas E&P,XLE
+COIN,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,3,Coinbase Global,Technology,Software‚ Application,XLK
+COKE,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Coca-Cola Consolidated,Consumer Defensive,Beverages‚ Non-Alcoholic,XLP
+CONE,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,CyrusOne,Real Estate,REIT‚ Specialty,XLRE
+COO,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Cooper Companies,Healthcare,Medical Instruments & Supplies,XLV
+COP,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,ConocoPhillips,Energy,Oil & Gas E&P,XLE
+CORT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Corcept Therapeutics,Healthcare,Biotechnology,XLV
+COST,,,,,,,,1,,,,,,,1,1,1,,,,,,,1,,,,,5,Costco Wholesale,Consumer Defensive,Discount Stores,XLP
+COUP,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Coupa Software,Technology,Software‚ Application,XLK
+COWN,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Cowen,Financial Services,Capital Markets,XLF
+CPB,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Campbell Soup,Consumer Defensive,Packaged Foods,XLP
+CPRT,,,,,,,,1,,,,,,,,1,1,,,,,1,,,,,,,4,Copart,Industrials,Specialty Business Services,XLI
+CPWHF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Ceres Power Holdings,#N/A,#N/A,#N/A
+CRH,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,CRH,Basic Materials,Building Materials,XLB
+CRL,,,,,,,,,,,,,1,1,,,1,,,,,,,,,,1,,4,Charles River,Healthcare,Diagnostics & Research,XLV
+CRM,,,,,,,1,,,,,,1,1,,,1,,,,,,1,,,,,,5,Salesforce.com,Technology,Software‚ Application,XLK
+CRSP,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,CRISPR Therapeutics,Healthcare,Biotechnology,XLV
+CRWD,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,CrowdStrike Holdings,#N/A,#N/A,#N/A
+CSCO,,,,,,,1,,,,,,,,1,1,1,,,,,,1,,,,,,5,Cisco Systems,Technology,Communication Equipment,XLK
+CSL,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Carlisle Companies,Industrials,Building Products & Equipment,XLI
+CSOD,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Cornerstone OnDemand,Technology,Software‚ Application,XLK
+CSTL,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Castle Biosciences,Healthcare,Diagnostics & Research,XLV
+CSX,,,,,,,,,,,,,,,,1,1,,,,,1,,,,,,,3,CSX,Industrials,Railroads,XLI
+CTAS,,,,,,,,1,,,,,,,,1,1,,,,,1,,,,,,,4,Cintas,Industrials,Specialty Business Services,XLI
+CTB,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Cooper Tire & Rubber,Consumer Cyclical,Auto Parts,XLY
+CTLT,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Catalent,Healthcare,Drug Manufacturers‚ Specialty & Generic,XLV
+CTRE,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,CareTrust REIT,Real Estate,REIT‚ Healthcare Facilities,XLRE
+CTSH,,,,,,,,,,,,,,1,,1,1,,,,,,1,,,,,,4,Cognizant Tech Solns,Technology,Information Technology Services,XLK
+CTVA,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Corteva,Basic Materials,Agricultural Inputs,XLB
+CTXS,,,,,,,,,,,,,,1,,,1,,,,,,1,,,,,,3,Citrix Systems,Technology,Software‚ Application,XLK
+CUBE,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,CubeSmart,Real Estate,REIT‚ Industrial,XLRE
+CVCO,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Cavco Indus,Consumer Cyclical,Residential Construction,XLY
+CVS,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,3,CVS Health,Healthcare,Healthcare Plans,XLV
+CYBR,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,CyberArk Software,#N/A,#N/A,#N/A
+CZR,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Caesars Entertainment,Consumer Cyclical,Resorts & Casinos,XLY
+D,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,Dominion Energy,Utilities,Utilities‚ Regulated Electric,XLU
+DAL,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Delta Air Lines,Industrials,Airlines,XLI
+DCI,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Donaldson,Industrials,Specialty Industrial Machinery,XLI
+DD,,,,,,,,,,,,1,,,,,1,1,,,,,,,,,,,3,DuPont de Nemours,Basic Materials,Specialty Chemicals,XLB
+DDD,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,3D Sys,Technology,Computer Hardware,XLK
+DE,,,1,,1,,,1,,,,,,,,,1,,,,,1,,,,,,,5,Deere,Industrials,Farm & Heavy Construction Machinery,XLI
+DECK,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Deckers Outdoor,Consumer Cyclical,Footwear & Accessories,XLY
+DFS,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Discover Financial,Financial Services,Credit Services,XLF
+DG,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,1,3,Dollar General,Consumer Defensive,Discount Stores,XLP
+DGX,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Quest Diagnostics,Healthcare,Diagnostics & Research,XLV
+DHI,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,1,3,D.R. Horton,Consumer Cyclical,Residential Construction,XLY
+DHR,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Danaher,Healthcare,Diagnostics & Research,XLV
+DIS,,,,1,,,1,,,,,,,,,,1,,1,,,,,,,,,,4,Walt Disney,Consumer Cyclical,Entertainment,XLY
+DISCA,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,Discovery,Communication Services,Entertainment,XLC
+DISCK,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,Discovery,Communication Services,Entertainment,XLC
+DISH,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,DISH Network,Communication Services,Entertainment,XLC
+DKNG,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,3,DraftKings,Consumer Cyclical,Gambling,XLY
+DLR,,,,,,,,,,1,,,1,,,,1,,,,,,,,1,,,,4,Digital Realty Trust,Real Estate,REIT‚ Office,XLRE
+DNNGY,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Orsted,#N/A,#N/A,#N/A
+DOC,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Physicians Realty Trust,Real Estate,REIT‚ Healthcare Facilities,XLRE
+DOCU,,1,,1,,,,,,,,,,,,1,,,,,,,,,,,,,4,DocuSign,Technology,Software‚ Application,XLK
+DORM,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Dorman Products,Consumer Cyclical,Auto Parts,XLY
+DOV,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Dover,Industrials,Specialty Industrial Machinery,XLI
+DOW,,,,,,,1,,,,,,,,,,1,1,,,,,,,,,,,3,Dow,Basic Materials,Chemicals,XLB
+DPZ,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Domino's Pizza,Consumer Cyclical,Restaurants,XLY
+DQ,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Daqo New Energy,Technology,Semiconductor Equipment & Materials,XLK
+DRE,,,,,,,,,,1,,,,,,,1,,,,,,,,1,,,,3,Duke Realty,Real Estate,REIT‚ Industrial,XLRE
+DRI,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Darden Restaurants,Consumer Cyclical,Restaurants,XLY
+DRNA,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Dicerna Pharmaceuticals,Healthcare,Biotechnology,XLV
+DTE,,,,,,,,1,,,,,,,1,,1,,,,,,,,,1,,,4,DTE Energy,Utilities,Utilities‚ Regulated Electric,XLU
+DUK,,,,,,,,1,,,,,,,,,1,,,,,,,,,1,,,3,Duke Energy,Utilities,Utilities‚ Regulated Electric,XLU
+DVA,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,DaVita,Healthcare,Medical Care Facilities,XLV
+DVN,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Devon Energy,Energy,Oil & Gas E&P,XLE
+DXC,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,DXC Technology,Technology,Information Technology Services,XLK
+DXCM,,,,,,,,,,,,,1,,,1,1,,,,,,,,,,1,,4,DexCom,Healthcare,Diagnostics & Research,XLV
+DYA.TO,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,DynaCERT,Industrials,Specialty Industrial Machinery,XLI
+EA,,,,,,,,,,,,,,,,1,1,,1,,,,,,,,,,3,Electronic Arts,Communication Services,Electronic Gaming & Multimedia,XLC
+EBAY,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,1,3,eBay,Consumer Cyclical,Internet Retail,XLY
+EBR,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,Centrais Eletricas,Utilities,Utilities‚ Regulated Electric,XLU
+ECL,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Ecolab,Basic Materials,Specialty Chemicals,XLB
+ED,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,Consolidated Edison,Utilities,Utilities‚ Regulated Electric,XLU
+EDRVF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,EDP Renovaveis,#N/A,#N/A,#N/A
+EFX,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Equifax,Industrials,Consulting Services,XLI
+EGP,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,EastGroup Properties,Real Estate,REIT‚ Industrial,XLRE
+EHC,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,Encompass Health,Healthcare,Medical Care Facilities,XLV
+EIX,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,Edison,Utilities,Utilities‚ Regulated Electric,XLU
+EL,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Estee Lauder Cos,Consumer Defensive,Household & Personal Products,XLP
+EMN,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Eastman Chemical,Basic Materials,Chemicals,XLB
+ENLTF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Enlight Renewable Energy,#N/A,#N/A,#N/A
+ENPH,,,,,,,,1,1,,,,,1,,,1,,,,,,1,,,,,,5,Enphase Energy,Technology,Solar,XLK
+ENS,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,EnerSys,Industrials,Electrical Equipment & Parts,XLI
+ENSG,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Ensign Group,Healthcare,Medical Care Facilities,XLV
+ENTG,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,Entegris,Technology,Semiconductor Equipment & Materials,XLK
+ENV,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Envestnet,Technology,Software‚ Application,XLK
+EOG,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,EOG Resources,Energy,Oil & Gas E&P,XLE
+EPAM,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,EPAM Systems,Technology,Information Technology Services,XLK
+EPD,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Enterprise Prods Partners,Energy,Oil & Gas Midstream,XLE
+EQIX,,,,,,,,1,,1,,,,,1,,1,,,,,,,,1,,,,5,Equinix,Real Estate,REIT‚ Specialty,XLRE
+EQR,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Equity Residential,Real Estate,REIT‚ Residential,XLRE
+ES,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,Eversource Energy,Utilities,Utilities‚ Regulated Electric,XLU
+ESLT,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,2,Elbit Systems,Industrials,Aerospace & Defense,XLI
+ESS,,,,,,,,,,,1,,,,,,1,,,,,,,,1,,,,3,Essex Property Trust,Real Estate,REIT‚ Residential,XLRE
+ETN,,,,,,,,,1,,,,,,,,1,,,,,1,,,,,,,3,Eaton Corp,Industrials,Specialty Industrial Machinery,XLI
+ETR,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,Entergy,Utilities,Utilities‚ Regulated Electric,XLU
+ETSY,,,,,,,,,,,,,1,,,,1,,,,,,,,,,,1,3,Etsy,Consumer Cyclical,Internet Retail,XLY
+EVBG,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Everbridge,Technology,Software‚ Application,XLK
+EVGN,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Evogene,Healthcare,Biotechnology,XLV
+EVRG,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,Evergy,Utilities,Utilities‚ Regulated Electric,XLU
+EW,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Edwards Lifesciences,Healthcare,Medical Devices,XLV
+EXAS,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Exact Sciences,Healthcare,Diagnostics & Research,XLV
+EXC,,,,,,,,,,,,,,,,1,1,,,,,,,,,1,,,3,Exelon,Utilities,Utilities‚ Diversified,XLU
+EXP,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Eagle Materials,Basic Materials,Building Materials,XLB
+EXPD,,,,,,,,1,,,,,,,1,,1,,,,,1,,,,,,,4,Expeditors International,Industrials,Integrated Freight & Logistics,XLI
+EXPE,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Expedia Group,Consumer Cyclical,Travel Services,XLY
+EXPI,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,eXp World Holdings,Real Estate,Real Estate Services,XLRE
+EXR,,,,,,,,1,,1,,,,,,,1,,,,,,,,1,,,,4,Extra Space Storage,Real Estate,REIT‚ Industrial,XLRE
+F,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Ford Motor,Consumer Cyclical,Auto Manufacturers,XLY
+FANG,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Diamondback Energy,Energy,Oil & Gas E&P,XLE
+FAST,,,,,,,,1,,,1,,,,,1,1,,,,,1,,,,,,,5,Fastenal,Industrials,Industrial Distribution,XLI
+FATE,1,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,3,Fate Therapeutics,Healthcare,Biotechnology,XLV
+FB,,,,,,,,,,,,,1,,,1,1,,1,,,,,,,,,,5,Facebook,Communication Services,Internet Content & Information,XLC
+FBHS,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Fortune Brands Home,Consumer Cyclical,"Furnishings, Fixtures & Appliances",XLY
+FCEL,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,FuelCell Energy,Industrials,Electrical Equipment & Parts,XLI
+FCX,,,,,,,,,,,,1,,,,,1,1,,,,,,,,,,,3,Freeport-McMoRan,Basic Materials,Copper,XLB
+FDS,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,2,FactSet Research Systems,Financial Services,Financial Data & Stock Exchanges,XLF
+FDX,,,,,,,,1,,,,,,,1,,1,,,,,1,,,,,,,4,FedEx,Industrials,Integrated Freight & Logistics,XLI
+FE,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,FirstEnergy,Utilities,Utilities‚ Regulated Electric,XLU
+FEYE,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,FireEye,#N/A,#N/A,#N/A
+FGSGF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Flat Glass Group Co,#N/A,#N/A,#N/A
+FICO,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,Fair Isaac,Technology,Software‚ Application,XLK
+FIS,,,,,,,,,,,,,1,1,,,1,,,,,,1,,,,,,4,Fidelity National Info,Technology,Information Technology Services,XLK
+FISV,,,,,,,,,,,,,1,1,,1,1,,,,,,1,,,,,,5,Fiserv,Technology,Information Technology Services,XLK
+FITB,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Fifth Third Bancorp,Financial Services,Banks‚ Regional,XLF
+FIVN,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Five9,Technology,Software‚ Infrastructure,XLK
+FLR,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Fluor,Industrials,Engineering & Construction,XLI
+FLT,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Fleetcor Technologies,Technology,Information Technology Services,XLK
+FMC,,,,,,,,1,,,,1,,,,,1,1,,,,,,,,,,,4,FMC,Basic Materials,Agricultural Inputs,XLB
+FN,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Fabrinet,Technology,Electronic Components,XLK
+FNGR,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,FingerMotion,Communication Services,Telecom Services,XLC
+FORTY,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Formula Systems (1985),Technology,Information Technology Services,XLK
+FOX,,,,,,,,,,,,,,,,1,1,,1,,,,,,,,,,3,Fox,Communication Services,Broadcasting,XLC
+FOXA,,,,,,,,,,,,,,,,1,1,,1,,,,,,,,,,3,Fox,Communication Services,Broadcasting,XLC
+FR,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,2,First Industrial Realty,Real Estate,REIT‚ Industrial,XLRE
+FRC,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,First Republic Bank,Financial Services,Banks‚ Regional,XLF
+FRPT,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Freshpet,Consumer Defensive,Packaged Foods,XLP
+FRT,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Federal Realty Investment,Real Estate,REIT‚ Retail,XLRE
+FSLR,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,First Solar,Technology,Solar,XLK
+FTNT,,,,,,1,,,,,,,1,1,,,1,,,,,,1,,,,,,5,Fortinet,Technology,Software‚ Infrastructure,XLK
+FTV,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Fortive,Technology,Scientific & Technical Instruments,XLK
+GCTAF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Siemens Gamesa Renewable,#N/A,#N/A,#N/A
+GD,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,General Dynamics,Industrials,Aerospace & Defense,XLI
+GDS,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,GDS Holdings,Technology,Information Technology Services,XLK
+GE,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,General Electric,Industrials,Specialty Industrial Machinery,XLI
+GGG,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Graco,Industrials,Specialty Industrial Machinery,XLI
+GH,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Guardant Health,Healthcare,Diagnostics & Research,XLV
+GILD,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,3,Gilead Sciences,Healthcare,Drug Manufacturers‚ General,XLV
+GIS,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,General Mills,Consumer Defensive,Packaged Foods,XLP
+GL,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Globe Life,Financial Services,Insurance‚ Life,XLF
+GLEO,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,Galileo Acquisition,Financial Services,Shell Companies,XLF
+GLOB,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Globant,Technology,Software‚ Application,XLK
+GLPI,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,Gaming and Leisure Props,Real Estate,REIT‚ Specialty,XLRE
+GLW,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Corning,Technology,Electronic Components,XLK
+GM,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,General Motors,Consumer Cyclical,Auto Manufacturers,XLY
+GNCLF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Gencell,#N/A,#N/A,#N/A
+GNRC,,,,,,,,,,,1,,,,,,1,,,,,1,,,,,,,3,Generac Hldgs,Industrials,Specialty Industrial Machinery,XLI
+GOOG,,,1,,1,,,,,,,,,,,1,1,,1,,,,,,,,,,5,Alphabet,Communication Services,Internet Content & Information,XLC
+GOOGL,,,,,,,,,,,,,,,,1,1,,1,,,,,,,,,,3,Alphabet,Communication Services,Internet Content & Information,XLC
+GPC,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Genuine Parts,Consumer Cyclical,Specialty Retail,XLY
+GPN,,,,,,,,1,,,,,1,,,,1,,,,,,1,,,,,,4,Global Payments,Industrials,Specialty Business Services,XLI
+GPS,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Gap,Consumer Cyclical,Apparel Retail,XLY
+GRP.U,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,Granite REIT,#N/A,#N/A,#N/A
+GS,,,,,,,1,,,,,,,,,,1,,,,1,,,,,,,,3,Goldman Sachs Group,Financial Services,Capital Markets,XLF
+GTY,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Getty Realty,Real Estate,REIT‚ Retail,XLRE
+GWRE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Guidewire Software,Technology,Software‚ Application,XLK
+GWW,,,,,,,,,,,1,,,,,,1,,,,,1,,,,,,,3,W.W. Grainger,Industrials,Industrial Distribution,XLI
+HAL,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Halliburton,Energy,Oil & Gas Equipment & Services,XLE
+HAS,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Hasbro,Consumer Cyclical,Leisure,XLY
+HASI,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,Hannon Armstrong,Real Estate,REIT‚ Specialty,XLRE
+HBAN,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Huntington Bancshares,Financial Services,Banks‚ Regional,XLF
+HBI,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Hanesbrands,Consumer Cyclical,Apparel Manufacturing,XLY
+HCA,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,HCA Healthcare,Healthcare,Medical Care Facilities,XLV
+HD,,,,,,,1,1,,,,,,,1,,1,,,,,,,,,,,1,5,Home Depot,Consumer Cyclical,Home Improvement Retail,XLY
+HDRO,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Defiance Next Gen H2 ETF,0,0,#N/A
+HEI,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,Heico,Industrials,Aerospace & Defense,XLI
+HES,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Hess,Energy,Oil & Gas E&P,XLE
+HFC,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,HollyFrontier,Energy,Oil & Gas Refining & Marketing,XLE
+HIG,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Hartford Finl Servs Gr,Financial Services,Insurance‚ Diversified,XLF
+HII,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Huntington Ingalls Indus,Industrials,Aerospace & Defense,XLI
+HIMX,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Himax Technologies,Technology,Semiconductors,XLK
+HLT,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Hilton Worldwide Holdings,Consumer Cyclical,Lodging,XLY
+HOLX,,,,,,,,1,,,,,,1,,,1,,,,,,,,,,1,,4,Hologic,Healthcare,Medical Instruments & Supplies,XLV
+HON,,,,,1,,1,,,,,,,,,,1,,,,,1,,,,,,,4,Honeywell International,Industrials,Specialty Industrial Machinery,XLI
+HPE,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Hewlett Packard,Technology,Communication Equipment,XLK
+HPP,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Hudson Pacific Properties,Real Estate,REIT‚ Office,XLRE
+HPQ,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,HP,Technology,Computer Hardware,XLK
+HR,,,,,,,,1,,,1,,,,,,,,,,,,,,,,,,2,Healthcare Realty Trust,Real Estate,REIT‚ Healthcare Facilities,XLRE
+HRL,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,Hormel Foods,Consumer Defensive,Packaged Foods,XLP
+HSIC,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Henry Schein,Healthcare,Medical Distribution,XLV
+HST,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Host Hotels & Resorts,Real Estate,REIT‚ Hotel & Motel,XLRE
+HSY,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,Hershey,Consumer Defensive,Confectioners,XLP
+HTOO,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Fusion Fuel Green,#N/A,#N/A,#N/A
+HUBS,,,,1,,,,,,,,,1,,,,,,,,,,,,,,,,2,HubSpot,Technology,Software‚ Application,XLK
+HUM,,,,,,,,1,,,,,,,,,1,,,,,,,,,,1,,3,Humana,Healthcare,Healthcare Plans,XLV
+HUN,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Huntsman,Basic Materials,Chemicals,XLB
+HUYA,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,HUYA,Communication Services,Entertainment,XLC
+IBDRY,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Iberdrola,#N/A,#N/A,#N/A
+IBM,,,,,,,1,,,,,,,,,,1,,,,,,1,,,,,,3,IBM,Technology,Information Technology Services,XLK
+ICE,,1,,1,,,,,,,,,,,,,1,,,,1,,,,,,,,5,Intercontinental Exchange,Financial Services,Financial Data & Stock Exchanges,XLF
+ICHR,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Ichor Holdings,Technology,Semiconductor Equipment & Materials,XLK
+ICLN,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,iShares Global Clean Energy ETF,0,0,#N/A
+ICLR,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Icon,Healthcare,Diagnostics & Research,XLV
+IDN,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Intellicheck,Technology,Software‚ Application,XLK
+IDXX,,,,,,,,1,,,,,1,1,,1,1,,,,,,,,,,1,,6,IDEXX Laboratories,Healthcare,Diagnostics & Research,XLV
+IEX,,,,,,,,,,,1,,,,,,1,,,,,1,,,,,,,3,IDEX,Industrials,Specialty Industrial Machinery,XLI
+IFF,,,,,,,,,,,,1,,,1,,1,1,,,,,,,,,,,4,Intl Flavors & Fragrances,Basic Materials,Specialty Chemicals,XLB
+IIPR,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,Innovative Industrial,Real Estate,REIT‚ Industrial,XLRE
+IIVI,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,II-VI,Technology,Scientific & Technical Instruments,XLK
+ILMN,,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,3,Illumina,Healthcare,Diagnostics & Research,XLV
+IMXI,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,International Money,Technology,Information Technology Services,XLK
+INCY,1,,,,,,,,,,,,,,,1,1,,,,,,,,,,1,,4,Incyte,Healthcare,Biotechnology,XLV
+INE.TO,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Innergex Renewable Energy,Utilities,Utilities‚ Renewable,XLU
+INFO,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,IHS Markit,Industrials,Consulting Services,XLI
+INFY,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Infosys,Technology,Information Technology Services,XLK
+INTC,,,,,,,1,,,,,,,,1,1,1,,,,,,1,,,,,,5,Intel,Technology,Semiconductors,XLK
+INTZ,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Intrusion,#N/A,#N/A,#N/A
+IONS,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Ionis Pharmaceuticals,Healthcare,Biotechnology,XLV
+IOVA,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Iovance Biotherapeutics,Healthcare,Biotechnology,XLV
+IP,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,International Paper,Consumer Cyclical,Packaging & Containers,XLY
+IPG,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,Interpublic Gr of Cos,Communication Services,Advertising Agencies,XLC
+IPGP,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,IPG Photonics,Technology,Semiconductor Equipment & Materials,XLK
+IQV,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,IQVIA Holdings,Healthcare,Diagnostics & Research,XLV
+IR,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Ingersoll Rand,Industrials,Specialty Industrial Machinery,XLI
+IRBT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,iRobot,Technology,Consumer Electronics,XLK
+IRDM,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,3,Iridium Communications,Communication Services,Telecom Services,XLC
+IRM,,,,,,,,,,1,,,,,1,,1,,,,,,,,1,,,,4,Iron Mountain,Real Estate,REIT‚ Specialty,XLRE
+ISRG,,,1,,,,,,,,,,,,,1,1,,,,,,,,,,1,,4,Intuitive Surgical,Healthcare,Medical Instruments & Supplies,XLV
+IT,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Gartner,Technology,Information Technology Services,XLK
+ITMPF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,ITM Power,#N/A,#N/A,#N/A
+ITT,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,ITT,Industrials,Specialty Industrial Machinery,XLI
+ITW,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Illinois Tool Works,Industrials,Specialty Industrial Machinery,XLI
+IVZ,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Invesco,Financial Services,Asset Management,XLF
+J,,,,,,,,,,,,1,,,,,1,,,,,1,,,,,,,3,Jacobs Engineering Group,Industrials,Engineering & Construction,XLI
+JBHT,,,,,,,,,,,,,,,1,,1,,,,,1,,,,,,,3,JB Hunt Transport Servs,Industrials,Integrated Freight & Logistics,XLI
+JBL,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Jabil,Technology,Electronic Components,XLK
+JCI,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Johnson Controls Intl,Industrials,Engineering & Construction,XLI
+JD,,,1,1,1,,,,,,,,1,,,1,,,,,,,,,,,,,6,JD.com,Consumer Cyclical,Internet Retail,XLY
+JKHY,,,,,,,,,,,,,,1,,,1,,,,,,1,,,,,,3,Jack Henry & Associates,Technology,Information Technology Services,XLK
+JKS,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,2,JinkoSolar Holding Co,Technology,Solar,XLK
+JNJ,,,,,,,1,,,,,,,,1,,1,,,,,,,,,,1,,4,Johnson & Johnson,Healthcare,Drug Manufacturers‚ General,XLV
+JNPR,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Juniper Networks,Technology,Communication Equipment,XLK
+JOUT,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Johnson Outdoors,Consumer Cyclical,Leisure,XLY
+JPM,,,,,,,1,,,,,,,,1,,1,,,,1,,,,,,,,4,JPMorgan Chase,Financial Services,Banks‚ Diversified,XLF
+K,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,Kellogg,Consumer Defensive,Packaged Foods,XLP
+KDP,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,2,Keurig Dr Pepper,Consumer Defensive,Beverages‚ Non-Alcoholic,XLP
+KEY,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,KeyCorp,Financial Services,Banks‚ Regional,XLF
+KEYS,,,,,,,,,,,,,,1,,,1,,,,,,1,,,,,,3,Keysight Technologies,Technology,Scientific & Technical Instruments,XLK
+KHC,,,,,,,,,,,,,,,,1,1,,,,,,,1,,,,,3,Kraft Heinz,Consumer Defensive,Packaged Foods,XLP
+KIM,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Kimco Realty,Real Estate,REIT‚ Retail,XLRE
+KLAC,,,,,,,,,,,,,1,1,1,1,1,,,,,,1,,,,,,6,KLA,Technology,Semiconductor Equipment & Materials,XLK
+KMB,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,Kimberly-Clark,Consumer Defensive,Household & Personal Products,XLP
+KMTUY,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,Komatsu,#N/A,#N/A,#N/A
+KMX,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,CarMax,Consumer Cyclical,Auto & Truck Dealerships,XLY
+KO,,,,,,,1,,,,,,,,1,,1,,,,,,,1,,,,,4,Coca-Cola,Consumer Defensive,Beverages‚ Non-Alcoholic,XLP
+KPTI,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Karyopharm Therapeutics,Healthcare,Biotechnology,XLV
+KRBN,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,KraneShares Global Carbon ETF,Technology,0,XLK
+KRC,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Kilroy Realty,Real Estate,REIT‚ Office,XLRE
+KSU,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Kansas City Southern,Industrials,Railroads,XLI
+KTOS,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,2,Kratos Defense & Security,Industrials,Aerospace & Defense,XLI
+KWR,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Quaker Chemical,Basic Materials,Specialty Chemicals,XLB
+L,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Loews,Financial Services,Insurance‚ Property & Casualty,XLF
+LB,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,L Brands,Consumer Cyclical,Apparel Retail,XLY
+LC,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,LendingClub,Financial Services,Credit Services,XLF
+LDOS,,,,,,,,,,,,,,1,,,1,,,,,1,,,,,,,3,Leidos Holdings,Technology,Information Technology Services,XLK
+LEG,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Leggett & Platt,Consumer Cyclical,"Furnishings, Fixtures & Appliances",XLY
+LEN,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,1,3,Lennar,Consumer Cyclical,Residential Construction,XLY
+LH,,,,,,,,,,,,,,1,,,1,,,,,,,,,,1,,3,Laboratory Corp,Healthcare,Diagnostics & Research,XLV
+LHX,,,,,1,,,1,,,,,,,1,,1,,,,,1,,,,,,,5,L3Harris Technologies,Industrials,Aerospace & Defense,XLI
+LII,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Lennox International,Industrials,Specialty Industrial Machinery,XLI
+LIN,,,,,,,,1,1,,,1,,,,,1,1,,,,,,,,,,,5,Linde,Basic Materials,Specialty Chemicals,XLB
+LITE,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Lumentum Holdings,Technology,Communication Equipment,XLK
+LKQ,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,LKQ,Consumer Cyclical,Auto Parts,XLY
+LLY,,,,,,,,1,,,,,,,1,,1,,,,,,,,,,1,,4,Eli Lilly,Healthcare,Drug Manufacturers‚ General,XLV
+LMAT,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,LeMaitre Vascular,Healthcare,Medical Instruments & Supplies,XLV
+LMT,,,1,,1,,,1,,,,,,,1,,1,,,,,1,,,,,,,6,Lockheed Martin,Industrials,Aerospace & Defense,XLI
+LNC,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Lincoln National,Financial Services,Insurance‚ Life,XLF
+LNN,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Lindsay,Industrials,Farm & Heavy Construction Machinery,XLI
+LNT,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,Alliant Energy,Utilities,Utilities‚ Regulated Electric,XLU
+LOGI,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,Logitech International,Technology,Computer Hardware,XLK
+LOW,,,,,,,,1,,,,,,,1,,1,,,,,,,,,,,1,4,Lowe's Companies,Consumer Cyclical,Home Improvement Retail,XLY
+LPX,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Louisiana-Pacific,Industrials,Building Products & Equipment,XLI
+LRCX,,,,,,,,,,,,,,1,,1,1,,,,,,1,,,,,,4,Lam Research,Technology,Semiconductor Equipment & Materials,XLK
+LSI,,,,,,,,1,,1,1,,,,,,,,,,,,,,,,,,3,Life Storage,Real Estate,REIT‚ Industrial,XLRE
+LTC,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,LTC Properties,Real Estate,REIT‚ Healthcare Facilities,XLRE
+LULU,,,,,,,,,,,1,,,,,1,,,,,,,,,,,,,2,Lululemon Athletica,Consumer Cyclical,Apparel Retail,XLY
+LUMN,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,Lumen Technologies,Communication Services,Telecom Services,XLC
+LUV,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Southwest Airlines,Industrials,Airlines,XLI
+LVS,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Las Vegas Sands,Consumer Cyclical,Resorts & Casinos,XLY
+LW,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Lamb Weston Hldgs,Consumer Defensive,Packaged Foods,XLP
+LYB,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,LyondellBasell Industries,Basic Materials,Specialty Chemicals,XLB
+LYV,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,Live Nation Entertainment,Communication Services,Entertainment,XLC
+LZB,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,La-Z-Boy,Consumer Cyclical,"Furnishings, Fixtures & Appliances",XLY
+MA,,,,,,,,,,,,,1,,,,1,,,,,,1,,,,,,3,Mastercard,Financial Services,Credit Services,XLF
+MAA,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Mid-America Apartment,Real Estate,REIT‚ Residential,XLRE
+MANT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Mantech Intl,Technology,Software‚ Application,XLK
+MAS,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Masco,Industrials,Building Products & Equipment,XLI
+MASI,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,Masimo,Healthcare,Medical Instruments & Supplies,XLV
+MASS,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,908 Devices,Healthcare,Medical Devices,XLV
+MCD,,,,,,,1,,,,,,,,,,1,,,,,,,,,,,1,3,McDonald's,Consumer Cyclical,Restaurants,XLY
+MCHP,,,,,,,,,1,,,,,,,1,1,,,,,,1,,,,,,4,Microchip Technology,Technology,Semiconductors,XLK
+MCK,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,McKesson,Healthcare,Medical Distribution,XLV
+MCO,,,,,,,,1,,,,,,,1,,1,,,,1,,,,,,,,4,Moody's,Financial Services,Financial Data & Stock Exchanges,XLF
+MCRB,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Seres Therapeutics,Healthcare,Biotechnology,XLV
+MDB,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,MongoDB,Technology,Software‚ Infrastructure,XLK
+MDLZ,,,,,,,,,,,,,,,,1,1,,,,,,,1,,,,,3,Mondelez International,Consumer Defensive,Confectioners,XLP
+MDT,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Medtronic,Healthcare,Medical Devices,XLV
+MDU,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,MDU Resources Gr,Basic Materials,Building Materials,XLB
+MED,,,,,,,,1,,,1,,,,,,,,,,,,,,,,,,2,Medifast,Consumer Cyclical,Personal Services,XLY
+MELI,,,,1,,,,,,,1,,1,1,,1,,,,,,,,,,,,,6,MercadoLibre,Consumer Cyclical,Internet Retail,XLY
+MET,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,MetLife,Financial Services,Insurance‚ Life,XLF
+MGA,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,Magna International,Consumer Cyclical,Auto Parts,XLY
+MGM,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,MGM Resorts Intl,Consumer Cyclical,Resorts & Casinos,XLY
+MHK,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Mohawk Industries,Consumer Cyclical,"Furnishings, Fixtures & Appliances",XLY
+MIME,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,2,Mimecast,Technology,Software‚ Infrastructure,XLK
+MKC,,,,,,,,1,,,,,,,1,,1,,,,,,,1,,,,,4,McCormick & Co,Consumer Defensive,Packaged Foods,XLP
+MKSI,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,MKS Instruments,Technology,Scientific & Technical Instruments,XLK
+MKTX,,,,,,,,,,,,,1,,1,,1,,,,1,,,,,,,,4,MarketAxess Holdings,Financial Services,Capital Markets,XLF
+MLM,,,,,,,,1,,,,,,,,,1,1,,,,,,,,,,,3,Martin Marietta Materials,Basic Materials,Building Materials,XLB
+MMC,,,,,,,,,,,,,,,1,,1,,,,1,,,,,,,,3,Marsh & McLennan,Financial Services,Insurance Brokers,XLF
+MMM,,,,,,,1,,,,,,,,,,1,,,,,1,,,,,,,3,3M,Industrials,Specialty Industrial Machinery,XLI
+MNR,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Monmouth Real Estate,Real Estate,REIT‚ Industrial,XLRE
+MNST,,,,,,,,1,,,,,,,,1,1,,,,,,,1,,,,,4,Monster Beverage,Consumer Defensive,Beverages‚ Non-Alcoholic,XLP
+MO,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Altria Group,Consumer Defensive,Tobacco,XLP
+MOS,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Mosaic,Basic Materials,Agricultural Inputs,XLB
+MPC,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,XLE
+MPW,,,,,,,,1,,1,,,,,1,,,,,,,,,,,,,,3,Medical Properties Trust,Real Estate,REIT‚ Healthcare Facilities,XLRE
+MPWR,,,,,,,,,,,,,1,1,,,1,,,,,,1,,,,,,4,Monolithic Power Systems,Technology,Semiconductors,XLK
+MRK,,,,,,,1,,,,,,,,1,,1,,,,,,,,,,1,,4,Merck & Co,Healthcare,Drug Manufacturers‚ General,XLV
+MRNA,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,Moderna,Healthcare,Biotechnology,XLV
+MRO,,,,,,,,,,,,1,,,,,1,,,1,,,,,,,,,3,Marathon Oil,Energy,Oil & Gas E&P,XLE
+MRVL,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,Marvell Technology,Technology,Semiconductors,XLK
+MS,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Morgan Stanley,Financial Services,Capital Markets,XLF
+MSCI,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,MSCI,Financial Services,Financial Data & Stock Exchanges,XLF
+MSFT,,,,,,,1,,,,,,1,1,1,1,1,,,,,,1,,,,,,7,Microsoft,Technology,Software‚ Infrastructure,XLK
+MSI,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Motorola Solutions,Technology,Communication Equipment,XLK
+MTB,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,M&T Bank,Financial Services,Banks‚ Regional,XLF
+MTCH,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,Match Group,Communication Services,Internet Content & Information,XLC
+MTD,,,,,,,,,,,,,,1,,,1,,,,,,,,,,1,,3,Mettler-Toledo Intl,Healthcare,Diagnostics & Research,XLV
+MTH,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Meritage Homes,Consumer Cyclical,Residential Construction,XLY
+MTLS,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,2,Materialise,Technology,Software‚ Application,XLK
+MU,,,,,,,,,,,,,,,,1,1,,,,,,1,,,,,,3,Micron Technology,Technology,Semiconductors,XLK
+MWA,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Mueller Water Products,Industrials,Specialty Industrial Machinery,XLI
+MXIM,,,,,,,,,,,,,,,,1,1,,,,,,1,,,,,,3,Maxim Integrated Products,Technology,Semiconductors,XLK
+NBIX,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Neurocrine Biosciences,Healthcare,Biotechnology,XLV
+NCLH,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Norwegian Cruise Line,Consumer Cyclical,Travel Services,XLY
+NDAQ,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Nasdaq,Financial Services,Financial Data & Stock Exchanges,XLF
+NDSN,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Nordson,Industrials,Specialty Industrial Machinery,XLI
+NEE,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,NextEra Energy,Utilities,Utilities‚ Regulated Electric,XLU
+NEM,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Newmont,Basic Materials,Gold,XLB
+NEOG,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Neogen,Healthcare,Diagnostics & Research,XLV
+NEP,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,NextEra Energy Partners,Utilities,Utilities‚ Renewable,XLU
+NET,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,Cloudflare,Technology,Software‚ Infrastructure,XLK
+NFLX,,,,1,1,,,,,,,,1,,,1,1,,1,,,,,,,,,,6,Netflix,Communication Services,Entertainment,XLC
+NHI,,,,,,,,1,,1,1,,,,,,,,,,,,,,,,,,3,National Health Investors,Real Estate,REIT‚ Healthcare Facilities,XLRE
+NI,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,NiSource,Utilities,Utilities‚ Regulated Gas,XLU
+NICE,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,NICE,Technology,Software‚ Application,XLK
+NIO,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,NIO,Consumer Cyclical,Auto Manufacturers,XLY
+NIU,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,Niu Technologies,Consumer Cyclical,Auto Manufacturers,XLY
+NKE,,,,,,,1,,,,,,,,,,1,,,,,,,,,,,1,3,Nike,Consumer Cyclical,Footwear & Accessories,XLY
+NLOK,,,,,,1,,,,,,,,,,,1,,,,,,1,,,,,,3,NortonLifeLock,Technology,Software‚ Infrastructure,XLK
+NLSN,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Nielsen Holdings,Industrials,Consulting Services,XLI
+NNDM,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,2,Nano Dimension,Technology,Computer Hardware,XLK
+NOC,,,,,,,,1,,,,,,,1,,1,,,,,1,,,,,,,4,Northrop Grumman,Industrials,Aerospace & Defense,XLI
+NOMD,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Nomad Foods,Consumer Defensive,Packaged Foods,XLP
+NOVA,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Sunnova Energy Intl,Technology,Solar,XLK
+NOW,,,,,,,,,,,,,1,,,,1,,,,,,1,,,,,,3,ServiceNow,Technology,Software‚ Application,XLK
+NRDXF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Nordex,#N/A,#N/A,#N/A
+NSA,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,National Storage,Real Estate,REIT‚ Industrial,XLRE
+NSC,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Norfolk Southern,Industrials,Railroads,XLI
+NSP,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Insperity,Industrials,Staffing & Employment Services,XLI
+NSTG,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NanoString Technologies,Healthcare,Medical Instruments & Supplies,XLV
+NTAP,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,NetApp,Technology,Computer Hardware,XLK
+NTDOY,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,Nintendo Co,#N/A,#N/A,#N/A
+NTLA,1,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,3,Intellia Therapeutics,Healthcare,Biotechnology,XLV
+NTRS,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Northern Trust,Financial Services,Asset Management,XLF
+NUE,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Nucor,Basic Materials,Steel,XLB
+NVAX,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Novavax,Healthcare,Biotechnology,XLV
+NVDA,,,1,,1,,,,,,,,1,1,,1,1,,,,,,1,,,,,,7,NVIDIA,Technology,Semiconductors,XLK
+NVR,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,1,3,NVR,Consumer Cyclical,Residential Construction,XLY
+NVS,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Novartis,Healthcare,Drug Manufacturers‚ General,XLV
+NVTA,1,1,,,,,,,,,,,1,,,,,,,,,,,,,,,,3,Invitae,Healthcare,Diagnostics & Research,XLV
+NWL,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Newell Brands,Consumer Defensive,Household & Personal Products,XLP
+NWS,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,News,Communication Services,Broadcasting,XLC
+NWSA,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,News,Communication Services,Broadcasting,XLC
+NXPI,,,1,,,,,,,,,,,,,1,1,,,,,,1,,,,,,4,NXP Semiconductors,Technology,Semiconductors,XLK
+O,,,,,,,,,,,1,,,,,,1,,,,,,,,1,,,,3,Realty Income,Real Estate,REIT‚ Retail,XLRE
+OCUL,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Ocular Therapeutix,Healthcare,Biotechnology,XLV
+ODFL,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Old Dominion Freight Line,Industrials,Trucking,XLI
+OEZVF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Verbund,#N/A,#N/A,#N/A
+OHI,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,Omega Healthcare,Real Estate,REIT‚ Healthcare Facilities,XLRE
+OKE,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,ONEOK,Energy,Oil & Gas Midstream,XLE
+OKTA,,,,1,,1,,,,,,,1,,,1,,,,,,,,,,,,,4,Okta,Technology,Software‚ Infrastructure,XLK
+OLLI,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Ollie's Bargain Outlet,Consumer Defensive,Discount Stores,XLP
+OMC,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,Omnicom Group,Communication Services,Advertising Agencies,XLC
+ON,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,ON Semiconductor,Technology,Semiconductors,XLK
+ONEM,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1Life Healthcare,Healthcare,Health Information Services,XLV
+ONTO,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Onto Innovation,Technology,Semiconductors,XLK
+ONVO,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,3,Organovo Holdings,Healthcare,Diagnostics & Research,XLV
+OPEN,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,Opendoor Technologies,Real Estate,Real Estate Services,XLRE
+ORA,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Ormat Technologies,Utilities,Utilities‚ Renewable,XLU
+ORCL,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Oracle,Technology,Software‚ Infrastructure,XLK
+ORLY,,,,,,,,1,,,,,,,,1,1,,,,,,,,,,,1,4,O'Reilly Automotive,Consumer Cyclical,Specialty Retail,XLY
+OSPN,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,OneSpan,#N/A,#N/A,#N/A
+OXY,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Occidental Petroleum,Energy,Oil & Gas E&P,XLE
+PAA,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Plains All American,Energy,Oil & Gas Midstream,XLE
+PACB,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Pacific Biosciences,Healthcare,Diagnostics & Research,XLV
+PANW,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Palo Alto Networks,#N/A,#N/A,#N/A
+PAYC,,,,,,,,,,,,,1,1,,,1,,,,,,1,,,,,,4,Paycom Software,Technology,Software‚ Application,XLK
+PAYX,,,,,,,,,,,,,,,,1,1,,,,,,1,,,,,,3,Paychex,Industrials,Staffing & Employment Services,XLI
+PBCT,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,People's United Finl,Financial Services,Banks‚ Regional,XLF
+PCAR,,,1,,,,,,,,1,,,,,1,1,,,,,1,,,,,,,5,PACCAR,Industrials,Farm & Heavy Construction Machinery,XLI
+PCELF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,PowerCell Sweden,#N/A,#N/A,#N/A
+PCTY,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Paylocity Holding,Technology,Software‚ Application,XLK
+PD,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,PagerDuty,Technology,Software‚ Application,XLK
+PDD,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,3,Pinduoduo,Consumer Cyclical,Internet Retail,XLY
+PEAK,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Healthpeak Properties,Real Estate,REIT‚ Healthcare Facilities,XLRE
+PEG,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,Public Service Enterprise,Utilities,Utilities‚ Diversified,XLU
+PENN,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Penn National Gaming,Consumer Cyclical,Resorts & Casinos,XLY
+PEP,,,,,,,,1,,,,,,,1,1,1,,,,,,,1,,,,,5,PepsiCo,Consumer Defensive,Beverages‚ Non-Alcoholic,XLP
+PFE,,,,,,,,,,,,,,,1,,1,,,,,,,,,,1,,3,Pfizer,Healthcare,Drug Manufacturers‚ General,XLV
+PFG,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Principal Financial Gr,Financial Services,Insurance‚ Diversified,XLF
+PFPT,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Proofpoint,#N/A,#N/A,#N/A
+PGR,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Progressive,Financial Services,Insurance‚ Property & Casualty,XLF
+PGTI,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,PGT Innovations,Industrials,Building Products & Equipment,XLI
+PH,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Parker Hannifin,Industrials,Specialty Industrial Machinery,XLI
+PHM,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,PulteGroup,Consumer Cyclical,Residential Construction,XLY
+PING,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Ping Identity Holding,#N/A,#N/A,#N/A
+PKG,,,,,,,,,,,1,,,,,,1,1,,,,,,,,,,,3,Packaging Corp of America,Consumer Cyclical,Packaging & Containers,XLY
+PKI,,,,,,,,,,,,,1,1,,,1,,,,,,,,,,1,,4,PerkinElmer,Healthcare,Diagnostics & Research,XLV
+PLD,,,,,,,,1,,1,1,,,,1,,1,,,,,,,,1,,,,6,Prologis,Real Estate,REIT‚ Industrial,XLRE
+PLTR,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,Palantir Technologies,Technology,Software‚ Infrastructure,XLK
+PLUG,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Plug Power,Industrials,Electrical Equipment & Parts,XLI
+PM,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Philip Morris Intl,Consumer Defensive,Tobacco,XLP
+PNC,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,PNC Financial Services Gr,Financial Services,Banks‚ Regional,XLF
+PNR,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Pentair,Industrials,Specialty Industrial Machinery,XLI
+PNW,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,Pinnacle West Capital,Utilities,Utilities‚ Regulated Electric,XLU
+PODD,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Insulet,Healthcare,Medical Devices,XLV
+POOL,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Pool,Consumer Cyclical,Leisure,XLY
+PPG,,,,,,,,,,,,1,,,,,1,1,,,,,,,,,,,3,PPG Industries,Basic Materials,Specialty Chemicals,XLB
+PPL,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,PPL,Utilities,Utilities‚ Regulated Electric,XLU
+PRGO,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Perrigo,Healthcare,Drug Manufacturers‚ Specialty & Generic,XLV
+PRGS,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Progress Software,Technology,Software‚ Application,XLK
+PRLB,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,2,Proto Labs,Industrials,Metal Fabrication,XLI
+PRU,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Prudential Financial,Financial Services,Insurance‚ Life,XLF
+PSA,,,,,,,,,,,1,,,,,,1,,,,,,,,1,,,,3,Public Storage,Real Estate,REIT‚ Industrial,XLRE
+PSB,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,2,PS Business Parks,Real Estate,REIT‚ Diversified,XLRE
+PSNL,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Personalis,Healthcare,Diagnostics & Research,XLV
+PSTG,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,3,Pure Storage,Technology,Computer Hardware,XLK
+PSTI,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Pluristem Therapeutics,Healthcare,Biotechnology,XLV
+PSX,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Phillips 66,Energy,Oil & Gas Refining & Marketing,XLE
+PTC,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,PTC,Technology,Software‚ Application,XLK
+PTCT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,PTC Therapeutics,Healthcare,Biotechnology,XLV
+PTON,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,2,Peloton Interactive,Consumer Cyclical,Leisure,XLY
+PVH,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,PVH,Consumer Cyclical,Apparel Manufacturing,XLY
+PWR,,,,,,,,1,,,,,,,,,1,,,,,1,,,,,,,3,Quanta Services,Industrials,Engineering & Construction,XLI
+PXD,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Pioneer Natural Resources,Energy,Oil & Gas E&P,XLE
+PYPL,,,,1,,,,,,,,,1,,,1,1,,,,,,1,,,,,,6,PayPal Holdings,Financial Services,Credit Services,XLF
+QCOM,,,,,,,,,,,,,,,1,1,1,,,,,,1,,,,,,4,Qualcomm,Technology,Semiconductors,XLK
+QDEL,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,Quidel,Healthcare,Diagnostics & Research,XLV
+QLYS,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,2,Qualys,Technology,Software‚ Infrastructure,XLK
+QRVO,,,,,,,,,,,,,,1,,,1,,,,,,1,,,,,,3,Qorvo,Technology,Semiconductors,XLK
+QTS,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,QTS Realty Trust,Real Estate,REIT‚ Industrial,XLRE
+QTWO,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Q2 Holdings,Technology,Software‚ Application,XLK
+RADA,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Rada Electronics Industri,Industrials,Aerospace & Defense,XLI
+RAVN,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,2,Raven Industries,Industrials,Specialty Industrial Machinery,XLI
+RBC,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Regal Beloit,Industrials,Specialty Industrial Machinery,XLI
+RBLX,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,Roblox,Communication Services,Electronic Gaming & Multimedia,XLC
+RCL,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Royal Caribbean Gr,Consumer Cyclical,Travel Services,XLY
+RDWR,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Radware,#N/A,#N/A,#N/A
+REG,,,,,,,,,,,1,,,,,,1,,,,,,,,1,,,,3,Regency Centers,Real Estate,REIT‚ Retail,XLRE
+REGI,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,2,Renewable Energy Gr,Energy,Oil & Gas Refining & Marketing,XLE
+REGN,1,,,,,,,,,,,,1,,,1,1,,,,,,,,,,1,,5,Regeneron Pharmaceuticals,Healthcare,Biotechnology,XLV
+REXR,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,Rexford Industrial Realty,Real Estate,REIT‚ Industrial,XLRE
+RF,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Regions Financial,Financial Services,Banks‚ Regional,XLF
+RGEN,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Repligen,Healthcare,Medical Instruments & Supplies,XLV
+RHHBY,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Roche Holding,#N/A,#N/A,#N/A
+RIG,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Transocean,Energy,Oil & Gas Drilling,XLE
+RJF,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Raymond James Financial,Financial Services,Capital Markets,XLF
+RL,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Ralph Lauren,Consumer Cyclical,Apparel Manufacturing,XLY
+RMD,,,,,,,,,,,,,1,1,,,1,,,,,,,,,,1,,4,ResMed,Healthcare,Medical Instruments & Supplies,XLV
+ROK,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Rockwell Automation,Industrials,Specialty Industrial Machinery,XLI
+ROKU,,1,,1,,,,,,,,,1,,,,,,,,,,,,,,,,3,Roku,Communication Services,Entertainment,XLC
+ROL,,,,,,,,,,,,,,,1,,1,,,,,1,,,,,,,3,Rollins,Consumer Cyclical,Personal Services,XLY
+ROLL,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,RBC Bearings,Industrials,Tools & Accessories,XLI
+ROP,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Roper Technologies,Industrials,Specialty Industrial Machinery,XLI
+ROST,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,1,3,Ross Stores,Consumer Cyclical,Apparel Retail,XLY
+RPD,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,2,Rapid7,Technology,Software‚ Application,XLK
+RPM,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,RPM International,Basic Materials,Specialty Chemicals,XLB
+RPTX,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Repare Therapeutics,Healthcare,Biotechnology,XLV
+RSG,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Republic Services,Industrials,Waste Management,XLI
+RTP,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,Reinvent Technology,Financial Services,Shell Companies,XLF
+RTX,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Raytheon Technologies,Industrials,Aerospace & Defense,XLI
+RUN,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Sunrun,Technology,Solar,XLK
+RXRX,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Recursion Pharmaceuticals,Healthcare,Biotechnology,XLV
+SAIC,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Science Applications Intl,Technology,Information Technology Services,XLK
+SAIL,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,2,SailPoint Technologies,Technology,Software‚ Infrastructure,XLK
+SAM,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Boston Beer Co,Consumer Defensive,Beverages‚ Brewers,XLP
+SBAC,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,SBA Communications,Real Estate,REIT‚ Specialty,XLRE
+SBUX,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,1,3,Starbucks,Consumer Cyclical,Restaurants,XLY
+SCCO,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Southern Copper,Basic Materials,Copper,XLB
+SCHW,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,3,Charles Schwab,Financial Services,Capital Markets,XLF
+SDGR,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Schrodinger,Healthcare,Health Information Services,XLV
+SE,,1,,1,,,,,,,,,1,,,,,,,,,,,,,,,,4,Sea,Communication Services,Electronic Gaming & Multimedia,XLC
+SEDG,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,2,SolarEdge Technologies,Technology,Solar,XLK
+SEE,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,Sealed Air,Consumer Cyclical,Packaging & Containers,XLY
+SEER,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Seer,Healthcare,Biotechnology,XLV
+SGEN,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,2,Seagen,Healthcare,Biotechnology,XLV
+SGFY,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Signify Health,Healthcare,Health Information Services,XLV
+SHOP,,1,,1,,,,,,,,,1,,,,,,,,,,,,,,,,4,Shopify,Technology,Software‚ Application,XLK
+SHSP,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,SharpSpring,Technology,Software‚ Application,XLK
+SHW,,,,,,,,1,,,,,,,,,1,1,,,,,,,,,,,3,Sherwin-Williams,Basic Materials,Specialty Chemicals,XLB
+SI,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,Silvergate Capital,Financial Services,Banks‚ Regional,XLF
+SIRI,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,Sirius XM Holdings,Communication Services,Broadcasting,XLC
+SIVB,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,SVB Finl Gr,Financial Services,Banks‚ Regional,XLF
+SJM,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,JM Smucker,Consumer Defensive,Packaged Foods,XLP
+SJW,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,SJW Gr,Utilities,Utilities‚ Regulated Water,XLU
+SKLZ,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,Skillz,Communication Services,Electronic Gaming & Multimedia,XLC
+SLB,,,,,,,,,,,,1,,,,,1,,,1,,,,,,,,,3,Schlumberger,Energy,Oil & Gas Equipment & Services,XLE
+SMG,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Scotts Miracle Gro,Basic Materials,Agricultural Inputs,XLB
+SMNEY,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Siemens Energy,#N/A,#N/A,#N/A
+SNAP,,,,1,,,,,,,,,1,,,,,,,,,,,,,,,,3,Snap,Communication Services,Internet Content & Information,XLC
+SNOW,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,Snowflake,Technology,Software‚ Application,XLK
+SNPS,,1,1,,1,,,,,,,,,1,,1,1,,,,,,1,,,,,,7,Synopsys,Technology,Software‚ Infrastructure,XLK
+SNX,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Synnex,Technology,Information Technology Services,XLK
+SNY,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,Sanofi,Healthcare,Drug Manufacturers‚ General,XLV
+SO,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,Southern,Utilities,Utilities‚ Regulated Electric,XLU
+SPCE,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,Virgin Galactic Hldgs,Industrials,Aerospace & Defense,XLI
+SPFR,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,2,Jaws Spitfire Acquisition,#N/A,#N/A,#N/A
+SPGI,,,,,,,,1,,,,,,,1,,1,,,,1,,,,,,,,4,S&P Global,Financial Services,Financial Data & Stock Exchanges,XLF
+SPLK,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,Splunk,Technology,Software‚ Infrastructure,XLK
+SPNS,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,Sapiens Intl Corp,Technology,Software‚ Application,XLK
+SPOT,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,2,Spotify Technology,Communication Services,Internet Content & Information,XLC
+SPR,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,Spirit AeroSystems Hldgs,Industrials,Aerospace & Defense,XLI
+SPSC,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,SPS Commerce,Technology,Software‚ Infrastructure,XLK
+SQ,,1,,1,,,,,,,,,1,,,,,,,,,,,,,,,,4,Square,Technology,Software‚ Infrastructure,XLK
+SRE,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,2,Sempra Energy,Utilities,Utilities‚ Diversified,XLU
+SRPT,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,2,Sarepta Therapeutics,Healthcare,Biotechnology,XLV
+SSD,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Simpson Manufacturing Co,Industrials,Building Products & Equipment,XLI
+SSYS,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,2,Stratasys,Technology,Computer Hardware,XLK
+STAG,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,Stag Industrial,Real Estate,REIT‚ Industrial,XLRE
+STE,,,,,,,,1,,,,,,1,,,1,,,,,,,,,,1,,4,Steris,Healthcare,Medical Instruments & Supplies,XLV
+STECF,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Scatec,#N/A,#N/A,#N/A
+STNE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,StoneCo,Technology,Software‚ Application,XLK
+STOR,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,STORE Capital,Real Estate,REIT‚ Diversified,XLRE
+STT,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,State Street,Financial Services,Asset Management,XLF
+STX,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Seagate Technology,Technology,Computer Hardware,XLK
+STZ,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Constellation Brands,Consumer Defensive,Beverages‚ Wineries & Distilleries,XLP
+SUI,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Sun Communities,Real Estate,REIT‚ Residential,XLRE
+SURF,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Surface Oncology,Healthcare,Biotechnology,XLV
+SWK,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Stanley Black & Decker,Industrials,Tools & Accessories,XLI
+SWKS,,,,,,,,,,,,,,,,1,1,,,,,,1,,,,,,3,Skyworks Solutions,Technology,Semiconductors,XLK
+SYF,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Synchrony Finl,Financial Services,Credit Services,XLF
+SYK,,,,,,,,1,,,,,,,,,1,,,,,,,,,,1,,3,Stryker,Healthcare,Medical Devices,XLV
+SYRS,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Syros Pharmaceuticals,Healthcare,Biotechnology,XLV
+SYY,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,2,Sysco,Consumer Defensive,Food Distribution,XLP
+T,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,AT&T,Communication Services,Telecom Services,XLC
+TAK,1,,,,,,,,,,,,1,,1,,,,,,,,,,,,,,3,Takeda Pharmaceutical,Healthcare,Drug Manufacturers‚ Specialty & Generic,XLV
+TAL,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,TAL Education,Consumer Defensive,Education & Training Services,XLP
+TAN,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Invesco Solar ETF,0,0,#N/A
+TCEHY,,1,1,1,1,,,,,,,,1,,,,,,,,,,,,,,,,6,Tencent Holdings,Communication Services,Internet Content & Information,XLC
+TCOM,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,Trip.com Group,Consumer Cyclical,Travel Services,XLY
+TDG,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,TransDigm Gr,Industrials,Aerospace & Defense,XLI
+TDOC,1,1,,1,,,,,,,,,1,,,,,,,,,,,,,,,,5,Teladoc Health,Healthcare,Health Information Services,XLV
+TDY,,,1,,1,,,,,,,,,1,,,1,,,,,1,,,,,,,5,Teledyne Technologies,Technology,Scientific & Technical Instruments,XLK
+TEAM,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,2,Atlassian Corporation,Technology,Software‚ Application,XLK
+TEL,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,TE Connectivity,Technology,Electronic Components,XLK
+TENB,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Tenable Holdings,#N/A,#N/A,#N/A
+TFC,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Truist Financial,Financial Services,Banks‚ Regional,XLF
+TFX,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Teleflex,Healthcare,Medical Instruments & Supplies,XLV
+TGT,,,,,,,,1,,,,,,,1,,1,,,,,,,,,,,1,4,Target,Consumer Defensive,Discount Stores,XLP
+THRM,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Gentherm,Consumer Cyclical,Auto Parts,XLY
+TJX,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,TJX Companies,Consumer Cyclical,Apparel Retail,XLY
+TLS,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Telos,#N/A,#N/A,#N/A
+TMUS,,,,,,,,,,,,,1,,,1,1,,1,,,,,,,,,,4,T-Mobile US,Communication Services,Telecom Services,XLC
+TNC,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Tennant,Industrials,Specialty Industrial Machinery,XLI
+TNDM,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Tandem Diabetes Care,Healthcare,Medical Devices,XLV
+TPR,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Tapestry,Consumer Cyclical,Luxury Goods,XLY
+TREE,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,1,LendingTree,Financial Services,Mortgage Finance,XLF
+TRMB,,1,1,,1,,,1,,,,,,,,,1,,,,,,1,,,,,,6,Trimble,Technology,Scientific & Technical Instruments,XLK
+TRNO,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,2,Terreno Realty,Real Estate,REIT‚ Industrial,XLRE
+TROW,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,T. Rowe Price Gr,Financial Services,Asset Management,XLF
+TRV,,,,,,,1,,,,,,,,,,1,,,,1,,,,,,,,3,Travelers Companies,Financial Services,Insurance‚ Property & Casualty,XLF
+TSCO,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Tractor Supply,Consumer Cyclical,Specialty Retail,XLY
+TSLA,,1,1,1,,,,,1,,,,1,,,1,1,,,,,,,,,,,1,8,Tesla,Consumer Cyclical,Auto Manufacturers,XLY
+TSM,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,2,Taiwan Semiconductor,Technology,Semiconductors,XLK
+TSN,,,,,,,,,,,,,,,1,,1,,,,,,,1,,,,,3,Tyson Foods,Consumer Defensive,Farm Products,XLP
+TSP,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,2,TuSimple Hldgs,Industrials,Trucking,XLI
+TT,,,,,,,,,,,1,,,,,,1,,,,,1,,,,,,,3,Trane Technologies,Industrials,Specialty Industrial Machinery,XLI
+TTC,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Toro,Industrials,Tools & Accessories,XLI
+TTD,,,,1,,,,,,,,,1,,,,,,,,,,,,,,,,2,Trade Desk,Technology,Software‚ Application,XLK
+TTEC,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,TTEC Holdings,Technology,Information Technology Services,XLK
+TTWO,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,Take-Two Interactive,Communication Services,Electronic Gaming & Multimedia,XLC
+TUFN,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Tufin Software,#N/A,#N/A,#N/A
+TWOU,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,3,2U,Consumer Defensive,Education & Training Services,XLP
+TWST,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Twist Bioscience,Healthcare,Diagnostics & Research,XLV
+TWTR,,1,,1,,,,,,,,,,,,,1,,1,,,,,,,,,,4,Twitter,Communication Services,Internet Content & Information,XLC
+TXG,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,10x Genomics,Healthcare,Health Information Services,XLV
+TXN,,,,,,,,,,,,,,,,1,1,,,,,,1,,,,,,3,Texas Instruments,Technology,Semiconductors,XLK
+TXT,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Textron,Industrials,Aerospace & Defense,XLI
+TYL,,,,,,,,,,,,,,1,,,1,,,,,,1,,,,,,3,Tyler Technologies,Technology,Software‚ Application,XLK
+U,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,3,Unity Software,Technology,Software‚ Application,XLK
+UA,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Under Armour,Consumer Cyclical,Apparel Manufacturing,XLY
+UAA,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Under Armour,Consumer Cyclical,Apparel Manufacturing,XLY
+UAL,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,United Airlines Holdings,Industrials,Airlines,XLI
+UCTT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Ultra Clean Holdings,Technology,Semiconductor Equipment & Materials,XLK
+UDR,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,UDR,Real Estate,REIT‚ Residential,XLRE
+UFPI,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,UFP Industries,Basic Materials,Lumber & Wood Production,XLB
+UHS,,,,,,,,1,,,,,,,,,1,,,,,,,,,,1,,3,Universal Health Services,Healthcare,Medical Care Facilities,XLV
+UI,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,2,Ubiquiti,Technology,Communication Equipment,XLK
+ULTA,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Ulta Beauty,Consumer Cyclical,Specialty Retail,XLY
+UMC,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,United Microelectronics,Technology,Semiconductors,XLK
+UNH,,,,,,,1,1,,,,,,,1,,1,,,,,,,,,,1,,5,UnitedHealth Group,Healthcare,Healthcare Plans,XLV
+UNM,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Unum,Financial Services,Insurance‚ Life,XLF
+UNP,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Union Pacific,Industrials,Railroads,XLI
+UPLD,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Upland Software,Technology,Software‚ Application,XLK
+UPS,,,,,,,,1,,,,,,,1,,1,,,,,1,,,,,,,4,United Parcel Service,Industrials,Integrated Freight & Logistics,XLI
+URI,,,,,,,,1,,,,,,,,,1,,,,,1,,,,,,,3,United Rentals,Industrials,Rental & Leasing Services,XLI
+USB,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,U.S. Bancorp,Financial Services,Banks‚ Regional,XLF
+V,,,,,,,1,,,,,,,,,,1,,,,,,1,,,,,,3,Visa,Financial Services,Credit Services,XLF
+VALE,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1,Vale,Basic Materials,Other Industrial Metals & Mining,XLB
+VCYT,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,3,Veracyte,Healthcare,Biotechnology,XLV
+VECO,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Veeco Instruments,Technology,Semiconductor Equipment & Materials,XLK
+VEEV,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,2,Veeva Systems,Healthcare,Health Information Services,XLV
+VFC,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,VF,Consumer Cyclical,Apparel Manufacturing,XLY
+VHC,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,2,VirnetX Holding,Technology,Software‚ Infrastructure,XLK
+VIAC,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,2,ViacomCBS,Communication Services,Entertainment,XLC
+VIRT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Virtu Financial,Financial Services,Capital Markets,XLF
+VIVO,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Meridian Bioscience,Healthcare,Diagnostics & Research,XLV
+VLO,,,,,,,,,,,,1,,,,,1,,,1,,,,,,,,,3,Valero Energy,Energy,Oil & Gas Refining & Marketing,XLE
+VMC,,,,,,,,1,,,1,1,,,,,1,1,,,,,,,,,,,5,Vulcan Materials,Basic Materials,Building Materials,XLB
+VMI,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Valmont Industries,Industrials,Metal Fabrication,XLI
+VMW,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,VMware,Technology,Software‚ Infrastructure,XLK
+VNO,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Vornado Realty,Real Estate,REIT‚ Office,XLRE
+VRNS,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Varonis Systems,#N/A,#N/A,#N/A
+VRSN,,,,,,,,,,,,,,,,1,1,,,,,,1,,,,,,3,VeriSign,Technology,Software‚ Infrastructure,XLK
+VRTX,1,,,,,,,,,,,,1,,,1,1,,,,,,,,,,1,,5,Vertex Pharmaceuticals,Healthcare,Biotechnology,XLV
+VSAT,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Viasat,Technology,Communication Equipment,XLK
+VTR,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Ventas,Real Estate,REIT‚ Healthcare Facilities,XLRE
+VTRS,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Viatris,Healthcare,Drug Manufacturers‚ Specialty & Generic,XLV
+VUZI,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,Vuzix,Technology,Consumer Electronics,XLK
+VWDRY,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Vestas Wind Systems,#N/A,#N/A,#N/A
+WAB,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Westinghouse Air Brake,Industrials,Railroads,XLI
+WAT,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Waters,Healthcare,Diagnostics & Research,XLV
+WBA,,,,,,,1,,,,,,,,,1,1,,,,,,,1,,,,,4,Walgreens Boots Alliance,Healthcare,Pharmaceutical Retailers,XLV
+WDAY,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,3,Workday,Technology,Software‚ Application,XLK
+WDC,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,Western Digital,Technology,Computer Hardware,XLK
+WEC,,,,,,,,,,,,,,,1,,1,,,,,,,,,1,,,3,WEC Energy Gr,Utilities,Utilities‚ Regulated Electric,XLU
+WELL,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,,2,Welltower,Real Estate,REIT‚ Healthcare Facilities,XLRE
+WFC,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Wells Fargo,Financial Services,Banks‚ Diversified,XLF
+WGO,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Winnebago Industries,Consumer Cyclical,Recreational Vehicles,XLY
+WHR,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Whirlpool,Consumer Cyclical,"Furnishings, Fixtures & Appliances",XLY
+WIRE,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Encore Wire,Industrials,Electrical Equipment & Parts,XLI
+WIT,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,Wipro,Technology,Information Technology Services,XLK
+WIX,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Wix.com,Technology,Software‚ Infrastructure,XLK
+WK,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Workiva,Technology,Software‚ Application,XLK
+WKHS,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,2,Workhorse Group,Consumer Cyclical,Auto Manufacturers,XLY
+WLTW,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Willis Towers Watson,Financial Services,Insurance Brokers,XLF
+WM,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Waste Management,Industrials,Waste Management,XLI
+WMB,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,2,Williams Companies,Energy,Oil & Gas Midstream,XLE
+WMK,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Weis Markets,Consumer Defensive,Grocery Stores,XLP
+WMS,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Advanced Drainage Systems,Industrials,Building Products & Equipment,XLI
+WMT,,,,,,,1,1,,,,,,,1,,1,,,,,,,1,,,,,5,Walmart,Consumer Defensive,Discount Stores,XLP
+WOR,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Worthington Industries,Basic Materials,Metal Fabrication,XLB
+WPC,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,W.P. Carey,Real Estate,REIT‚ Diversified,XLRE
+WRB,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,WR Berkley,Financial Services,Insurance‚ Property & Casualty,XLF
+WRK,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,2,WestRock,Consumer Cyclical,Packaging & Containers,XLY
+WSM,,,,,,,,1,,,1,,,,,,,,,,,,,,,,,,2,Williams-Sonoma,Consumer Cyclical,Specialty Retail,XLY
+WST,,,,,,,,1,,,,,,1,1,,1,,,,,,,,,,1,,5,West Pharmaceutical Servs,Healthcare,Medical Instruments & Supplies,XLV
+WTRG,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,Essential Utilities,Utilities,Utilities‚ Regulated Water,XLU
+WTS,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,Watts Water Technologies,Industrials,Specialty Industrial Machinery,XLI
+WU,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,2,The Western Union,Financial Services,Credit Services,XLF
+WY,,,,,,,,,,,1,,,,,,1,,,,,,,,1,,,,3,Weyerhaeuser,Real Estate,REIT‚ Specialty,XLRE
+WYNN,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Wynn Resorts,Consumer Cyclical,Resorts & Casinos,XLY
+XBC.TO,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Xebec Adsorption,#N/A,#N/A,#N/A
+XISHY,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1,Xinyi Solar Holdings,#N/A,#N/A,#N/A
+XLRN,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Acceleron Pharma,Healthcare,Biotechnology,XLV
+XOM,,,,,,,,,,,,1,,,,,1,,,1,,,,,,,,,3,Exxon Mobil,Energy,Oil & Gas Integrated,XLE
+XONE,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,ExOne,Industrials,Specialty Industrial Machinery,XLI
+XRAY,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Dentsply Sirona,Healthcare,Medical Instruments & Supplies,XLV
+XYL,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,2,Xylem,Industrials,Specialty Industrial Machinery,XLI
+YNDX,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Yandex,Communication Services,Internet Content & Information,XLC
+YUM,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1,2,Yum Brands,Consumer Cyclical,Restaurants,XLY
+Z,,1,,1,,,,,,,,,1,,,,,,,,,,,,,,,,4,Zillow Gr,Communication Services,Internet Content & Information,XLC
+ZBH,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,2,Zimmer Biomet Holdings,Healthcare,Medical Devices,XLV
+ZBRA,,,,,,,,,,,,,,1,,,1,,,,,,1,,,,,,3,Zebra Technologies,Technology,Communication Equipment,XLK
+ZEN,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,Zendesk,Technology,Software‚ Application,XLK
+ZION,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,2,Zions Bancorp,Financial Services,Banks‚ Regional,XLF
+ZIXI,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,2,Zix,Technology,Software‚ Infrastructure,XLK
+ZM,,1,,1,,,,,,,,,,,,1,,,,,,,,,,,,,3,Zoom Video Communications,Communication Services,Software‚ Application,XLC
+ZS,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,Zscaler,#N/A,#N/A,#N/A
+ZY,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Zymergen,Basic Materials,Chemicals,XLB
