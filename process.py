@@ -111,6 +111,19 @@ def visualize(metrics: pd.DataFrame) -> None:
     _metrics.grades = pd.to_numeric(_metrics.grades, errors="coerce")
     ax = sns.boxenplot(data=_metrics, x="sector", y="grades")
 
+    # calculate overall top 50 and sector top 10
+    _metrics.sort_values("grades", ascending=False, inplace=True)
+    top_stocks_overall = _metrics.loc[_metrics.grade == 5]
+    print("Top overall stocks", top_stocks_overall)
+    top_stocks_overall.to_csv("metrics_top55.csv")
+
+    sector_top_10 = []
+    for sector, df in _metrics.groupby("sector"):
+        sector_top_10.append(df.sort_values("grades", ascending=False).head(10))
+    sector_top_10 = pd.concat(sector_top_10)
+    print("Top 10 stocks per sector", sector_top_10)
+    sector_top_10.to_csv("metrics_sector_top10.csv")
+
 
 def main():
     args = parse_args()
