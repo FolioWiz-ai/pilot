@@ -125,28 +125,21 @@ def visualize(metrics: pd.DataFrame) -> None:
     sector_top_10.to_csv("metrics_sector_top10.csv")
 
 
-def main():
-    args = parse_args()
-
-    univ = pd.read_csv(args.universe)
-    tickers = univ.ticker.tolist()
-    shuffle(tickers)
-
-    # download and save ohlc candles for last 3y to `data/tickers/`
-    download_candles(tickers)
-    # download and save metrics
-    metrics = download_metrics(tickers)
-    metrics.to_csv(args.metrics, float_format="%.4f")
-
-    # calculate operatingCashFlow growth rate
+def calc_ocf_growth(metrics: pd.DataFrame) -> pd.DataFrame:
+    """Calculate quarterly operating cashflow growth rate"""
     ocf_growth = metrics.groupby("symbol").apply(
         lambda df: (df.operatingCashFlow - df.operatingCashFlow.shift(1))
         / df.operatingCashFlow.shift(1)
     )
-    metrics.loc[:, "ocf_growth"] = ocf_growth.reset_index(drop=True)
-    stats = metrics.groupby("symbol")[
-        "operatingCashFlow", "enterpriseValueMultiple", "debtEquityRatio"
-    ].describe()
+    return ocf_growth.reset_index(drop=True)
+
+
+def calc_percentiles_deciles(
+    metric_labels: list, metrics: pd.DataFrame
+) -> pd.DataFrame:
+    """Calculate 3y percentiles and metric deciles"""
+
+    stats = metrics.groupby("symbol")[metric_labels].describe()
 
     def calculate_percentiles(ticker: str, col: str, value: float) -> float:
         sub_stats = stats.loc[ticker, col]
@@ -160,7 +153,6 @@ def main():
             percentile = 4
         return percentile
 
-    metric_labels = ["operatingCashFlow", "enterpriseValueMultiple", "debtEquityRatio"]
     # 3y percentile score
     for stat in metric_labels:
         metrics.loc[:, f"{stat}_3y_percentile"] = metrics.apply(
@@ -171,6 +163,11 @@ def main():
         metrics.loc[:, f"{stat}_ticker_decile"] = pd.qcut(
             metrics[stat], 10, labels=list(range(10, 0, -1))
         )
+    return metrics
+
+
+def sector_index_decile(metric_labels: list, metrics: pd.DataFrame) -> pd.DataFrame:
+    """Calculate sector and index based deciles"""
     univ = pd.read_csv("data/universe_goldmaster.csv")
     metrics = metrics.merge(
         univ.loc[:, ["ticker", "sector"]], left_on="symbol", right_on="ticker"
@@ -190,15 +187,67 @@ def main():
     sp500 = indices.loc[
         indices.loc[:, "S&P 500"].fillna(0.0).astype(bool)
     ].ticker.tolist()
-    nq = indices.loc[indices.loc[:, "S&P 500"].fillna(0.0).astype(bool)].ticker.tolist()
+    nq100 = indices.loc[
+        indices.loc[:, "NASDAQ 100"].fillna(0.0).astype(bool)
+    ].ticker.tolist()
     metrics.loc[metrics.symbol.apply(lambda ticker: ticker in sp500), "SP500"] = True
     metrics.loc[metrics.symbol.apply(lambda ticker: ticker in nq100), "NQ"] = True
-    metrics["SP500_decile"] = pd.qcut(
-        metrics.operatingCashFlow[metrics.SP500], 10, labels=list(range(10, 0, -1))
+    for metric in metric_labels:
+        metrics[f"SP500_{metric}_decile"] = pd.qcut(
+            metrics.loc[metrics.SP500.fillna(False), metric],
+            10,
+            labels=list(range(10, 0, -1)),
+        )
+        metrics[f"NQ_{metric}_decile"] = pd.qcut(
+            metrics.loc[metrics.NQ.fillna(False), metric],
+            10,
+            labels=list(range(10, 0, -1)),
+        )
+    return metrics
+
+
+def calc_custom_weights(metric_labels: list, metrics: pd.DataFrame) -> pd.DataFrame:
+    """Calculate custom weighted scores on the basis of metrics"""
+    for metric in metric_labels:
+        metrics.loc[:, f"{metric}_custom"] = pd.qcut(
+            metrics[metric], 5, labels=list(range(1, 6))
+        )
+    # weighted score
+    weighted_scores = metrics.apply(
+        lambda row: sum(
+            [
+                1 / len(metric_labels) * row[f"{metric}_custom"]
+                for metric in metric_labels
+            ]
+        ),
+        axis=1,
     )
-    metrics["NQ_decile"] = pd.qcut(
-        metrics.operatingCashFlow[metrics.NQ], 10, labels=list(range(10, 0, -1))
+    metrics.loc[:, "grades"] = pd.qcut(
+        weighted_scores.rank(pct=True) * 100, 5, labels=[5, 4, 3, 2, 1][::-1]
     )
+    return metrics
+
+
+def main():
+    args = parse_args()
+
+    univ = pd.read_csv(args.universe)
+    tickers = univ.ticker.tolist()
+    shuffle(tickers)
+
+    # download and save ohlc candles for last 3y to `data/tickers/`
+    download_candles(tickers)
+    # download and save metrics
+    metrics = download_metrics(tickers)
+    metrics.to_csv(args.metrics, float_format="%.4f")
+
+    # calculate operatingCashFlow growth rate
+    metrics.loc[:, "ocf_growth"] = calc_ocf_growth(metrics)
+
+    metric_labels = ["operatingCashFlow", "enterpriseValueMultiple", "debtEquityRatio"]
+
+    metrics = calc_percentiles_deciles(metric_labels, metrics)
+    metrics = sector_index_decile(metric_labels, metrics)
 
     # return calculation
     all_returns = []
@@ -215,20 +264,7 @@ def main():
     metrics.loc[all_returns.index, "Total_Returns"] = all_returns
     metric_labels.append("Total_Returns")
 
-    # custom scoring
-
-    for metric in metric_labels:
-        metrics.loc[:, f"{metric}_custom"] = pd.qcut(
-            metrics[metric], 5, labels=list(range(1, 6))
-        )
-    # weighted score
-    weighted_scores = metrics.apply(
-        lambda row: sum([0.25 * row[f"{metric}_custom"] for metric in metric_labels]),
-        axis=1,
-    )
-    metrics.loc[:, "grades"] = pd.qcut(
-        weighted_scores.rank(pct=True) * 100, 5, labels=[5, 4, 3, 2, 1][::-1]
-    )
+    metrics = calc_custom_weights(metric_labels, metrics)
 
     # portfolio analysis
     def calculate_returns(ticker, details):

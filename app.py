@@ -11,6 +11,15 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+from process import (
+    calc_custom_weights,
+    calc_ocf_growth,
+    calc_percentiles_deciles,
+    download_candles,
+    download_metrics,
+    sector_index_decile,
+)
+
 
 @st.cache
 def fetch_portfolio(filename: str) -> pd.DataFrame:
@@ -73,15 +82,12 @@ def prepare_universe():
 def prepare_portfolio() -> Tuple[pd.DataFrame, pd.DataFrame]:
     """Prepare the portfolio files for further use"""
 
-    portfolio_options = set(["past", "curr"])
-    filename: str = st.sidebar.selectbox(
-        "Choose Portfolio", list(portfolio_options), index=1
-    )
+    filename: str = "past"
     with st.spinner(text="Loading data ..."):
         (df := fetch_portfolio(f"data/portfolio_{filename}.csv"))
         st.info(f"Index Name: {df.index.name}")
         st.code(df.dtypes)
-    other_filename = f"data/portfolio_{next(iter(portfolio_options - {filename}))}.csv"
+    other_filename = f"data/portfolio_curr.csv"
     st.success(
         f"Additionally, the [`{other_filename}`] dataset has been loaded as well, for further analysis."
     )
@@ -95,20 +101,33 @@ def prepare_portfolio() -> Tuple[pd.DataFrame, pd.DataFrame]:
     return curr_df, past_df
 
 
-def calc_kpis():
+def calc_kpis(tickers: list):
     """Calculate KPI metrics"""
-
-    "> TODO: add calc of metrics here"
     kpi_df = pd.DataFrame([])
+    if to_download := st.checkbox("Download metrics again?", False):
+        if st.button("Start Download"):
+            with st.spinner(text="Downloading metrics ..."):
+                kpi_df = download_metrics(tickers)
+    else:
+        kpi_df = pd.read_csv("data/metrics_base.csv", parse_dates=[0])
     return kpi_df
 
 
-def calc_cfg_returns():
-    """Calculate CFG Returns"""
-
-    "> TODO: calculate qtrly CGR and daily monthly and qtrly TOTAL RETURNS"
-    cfg_df = pd.DataFrame([])
-    return cfg_df
+@st.cache
+def calc_total_returns(metrics: pd.DataFrame) -> pd.DataFrame:
+    """Calculate total returns for the specified dates"""
+    all_returns = []
+    for ticker, df in metrics.groupby("symbol"):
+        ticker_df = pd.read_csv(f"data/tickers/{ticker}.csv", parse_dates=[0])
+        dates = pd.to_datetime(df.date)
+        ticker_df.index = pd.to_datetime(ticker_df.Date).dt.date
+        indices = [ticker_df.index.get_loc(date, method="nearest") for date in dates]
+        closes = ticker_df.iloc[indices]["Close"]
+        returns = (closes - closes.shift(1)) / closes.shift(1)
+        returns.index = df.index
+        all_returns.append(returns)
+    all_returns = pd.concat(all_returns)
+    return all_returns
 
 
 def main():
@@ -124,6 +143,7 @@ def main():
     it may save some time in automation.
     """
     idx_df, breakdown_df, desc_df, corr_data, corr_matrix = prepare_universe()
+    tickers = desc_df.index.tolist()
 
     """
     ### `portfolio.xlsx`
@@ -136,29 +156,74 @@ def main():
     ## Data KPI Extraction
 
     Now that we have the data broken down into workable datasets, we can finally move onto the
-    analysis of said data. The first step is to break down the data into the following KPI(s):
+    analysis of said data. The first step is to download the following KPI(s):
     - operating cash flow
-    - total returns
+    - total returns (calculated)
     - EV/EBITDA
     - D/E
-    """
 
-    kpi_df = calc_kpis()
-    st.dataframe(kpi_df)
+    Except `total_returns`, all other metrics can be fetched from the FMP API
+    """
+    global API_TOKEN
+    API_TOKEN = st.sidebar.text_input("API TOKEN", os.getenv("API_TOKEN", ""))
+    metrics = calc_kpis(tickers)
+    st.dataframe(metrics)
 
     """
-    Next, we need to calculate
-    - the quarterly operating cashflow growth rate for the last 3 years
-    - daily, monthly and quarterly total returns for the last 3 years
+    Now that we have the metrics, `operatingCashFlow`, `enterpriseValueMultiple` (EV/EBIDTA)
+    and `debtEquityRatio` (D/E), we move on to calculating `Total_Returns`.
+    For this, first we need to fetch the OHLC values for all the tickers
+    for the past 3 years.
     """
-
-    returns_df = calc_cfg_returns()
-    st.dataframe(returns_df)
+    if st.checkbox("Download tickers again?", False):
+        if st.button("Start Download"):
+            with st.spinner(text="Downloading tickers ..."):
+                download_candles(tickers)
+    st.info(f"Tickers already available: {len(os.listdir('data/tickers/'))}")
+    total_returns = calc_total_returns(metrics)
+    metrics.loc[total_returns.index, "Total_Returns"] = total_returns
+    st.dataframe(metrics)
 
     """
     ## Data Inference
-    > TODO: get example for clarity
+    Next, we need to calculate the quarterly operating cashflow growth rate for the last 3 years.
+    Here's a small sample of the calculated values:
     """
+    metrics.loc[:, "ocf_growth"] = calc_ocf_growth(metrics)
+    st.table(metrics.loc[:10, ["date", "symbol", "operatingCashFlow", "ocf_growth"]])
+
+    metric_labels = [
+        "operatingCashFlow",
+        "enterpriseValueMultiple",
+        "debtEquityRatio",
+        "Total_Returns",
+    ]
+    f"""
+    For the calculation of deciles, percentiles and quartiles, we have a
+    fixed set of metrics, viz.
+    `{metric_labels}`
+    """
+    metrics = calc_percentiles_deciles(metric_labels, metrics)
+    st.dataframe(metrics)
+
+    """
+    Now, to calculate the decile ranks within a sector or within an index,
+    we need to append the relevant information, ie, sector, index-presence to the metrics
+    """
+    metrics = sector_index_decile(metric_labels, metrics)
+    st.dataframe(metrics)
+    """
+    Finally, we calculate custom scores for each metric and then a weighted
+    score, aggregated across the custom scores.
+    """
+    metrics = calc_custom_weights(metric_labels, metrics)
+    st.dataframe(
+        metrics.loc[
+            :,
+            ["date", "symbol", "grades"]
+            + [f"{metric}_custom" for metric in metric_labels],
+        ]
+    )
 
 
 if __name__ == "__main__":
