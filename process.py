@@ -10,7 +10,6 @@ from random import shuffle
 import numpy as np
 import pandas as pd
 import requests
-import seaborn as sns
 import yfinance as yf
 
 API_TOKEN = os.getenv("API_TOKEN", None)
@@ -100,6 +99,8 @@ def download_metrics(tickers: list) -> pd.DataFrame:
 
 def visualize(metrics: pd.DataFrame) -> None:
     """Visualize the given metrics"""
+    import seaborn as sns
+    
     # get last quarter data to visualize
     _metrics = metrics.groupby("symbol").last()
 
@@ -228,45 +229,12 @@ def calc_custom_weights(metric_labels: list, metrics: pd.DataFrame) -> pd.DataFr
     return metrics
 
 
-def main():
-    args = parse_args()
+def calc_portfolio():
+    """
+    Calculate portfolio returns and change in profit %
+    given criterion mentioned
+    """
 
-    univ = pd.read_csv(args.universe)
-    tickers = univ.ticker.tolist()
-    shuffle(tickers)
-
-    # download and save ohlc candles for last 3y to `data/tickers/`
-    download_candles(tickers)
-    # download and save metrics
-    metrics = download_metrics(tickers)
-    metrics.to_csv(args.metrics, float_format="%.4f")
-
-    # calculate operatingCashFlow growth rate
-    metrics.loc[:, "ocf_growth"] = calc_ocf_growth(metrics)
-
-    metric_labels = ["operatingCashFlow", "enterpriseValueMultiple", "debtEquityRatio"]
-
-    metrics = calc_percentiles_deciles(metric_labels, metrics)
-    metrics = sector_index_decile(metric_labels, metrics)
-
-    # return calculation
-    all_returns = []
-    for ticker, df in metrics.groupby("symbol"):
-        ticker_df = pd.read_csv(f"data/tickers/{ticker}.csv", parse_dates=[0])
-        dates = pd.to_datetime(df.date)
-        ticker_df.index = pd.to_datetime(ticker_df.Date).dt.date
-        indices = [ticker_df.index.get_loc(date, method="nearest") for date in dates]
-        closes = ticker_df.iloc[indices]["Close"]
-        returns = (closes - closes.shift(1)) / closes.shift(1)
-        returns.index = df.index
-        all_returns.append(returns)
-    all_returns = pd.concat(all_returns)
-    metrics.loc[all_returns.index, "Total_Returns"] = all_returns
-    metric_labels.append("Total_Returns")
-
-    metrics = calc_custom_weights(metric_labels, metrics)
-
-    # portfolio analysis
     def calculate_returns(ticker, details):
         values = [np.nan, np.nan]
         try:
@@ -306,10 +274,47 @@ def main():
     past.loc[:, "PnL"] = past.SP - past.CP
     new_profit = past.PnL.sum()
     # 49.15028% more
-    print(
-        f"New Profit: {new_profit} | Original Profit: {original_profit} | % Change: {(new_profit - original_profit) / original_profit * 100}"
-    )
+    return original_profit, new_profit, top_10, bottom_10
 
+
+def main():
+    args = parse_args()
+
+    univ = pd.read_csv(args.universe)
+    tickers = univ.ticker.tolist()
+    shuffle(tickers)
+
+    # download and save ohlc candles for last 3y to `data/tickers/`
+    download_candles(tickers)
+    # download and save metrics
+    metrics = download_metrics(tickers)
+    metrics.to_csv(args.metrics, float_format="%.4f")
+
+    # calculate operatingCashFlow growth rate
+    metrics.loc[:, "ocf_growth"] = calc_ocf_growth(metrics)
+
+    metric_labels = ["operatingCashFlow", "enterpriseValueMultiple", "debtEquityRatio"]
+
+    metrics = calc_percentiles_deciles(metric_labels, metrics)
+    metrics = sector_index_decile(metric_labels, metrics)
+
+    # return calculation
+    all_returns = []
+    for ticker, df in metrics.groupby("symbol"):
+        ticker_df = pd.read_csv(f"data/tickers/{ticker}.csv", parse_dates=[0])
+        dates = pd.to_datetime(df.date)
+        ticker_df.index = pd.to_datetime(ticker_df.Date).dt.date
+        indices = [ticker_df.index.get_loc(date, method="nearest") for date in dates]
+        closes = ticker_df.iloc[indices]["Close"]
+        returns = (closes - closes.shift(1)) / closes.shift(1)
+        returns.index = df.index
+        all_returns.append(returns)
+    all_returns = pd.concat(all_returns)
+    metrics.loc[all_returns.index, "Total_Returns"] = all_returns
+    metric_labels.append("Total_Returns")
+
+    metrics = calc_custom_weights(metric_labels, metrics)
+    original_profit, new_profit = calc_portfolio()
     visualize(metrics)
 
 

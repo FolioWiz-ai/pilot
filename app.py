@@ -15,6 +15,7 @@ from process import (
     calc_custom_weights,
     calc_ocf_growth,
     calc_percentiles_deciles,
+    calc_portfolio,
     download_candles,
     download_metrics,
     sector_index_decile,
@@ -225,6 +226,38 @@ def main():
         ]
     )
 
+    """
+    ## Portfolio Analysis
+
+    Last, but not the least, we look at the sample portfolio given.
+    The question is what will happen when the bottom 10% is replaced with
+    the top 10%.
+    """
+    original_profit, new_profit, top_10, bottom_10 = calc_portfolio()
+    st.success(
+        f"""
+    Original Profit: {original_profit} | Final Profit: {new_profit} \n Percentage change: {(new_profit - original_profit) / original_profit * 100}
+    """
+    )
+    """Below are the top 10% and bottom 10% stocks respectively"""
+    st.dataframe(top_10)
+    st.dataframe(bottom_10)
+
+    """
+    ## Visualization
+    Finally, we can visualize some of the results to give a clearer
+    insight into the data analysed.
+
+    ### Decile Histograms
+    Below, we have the histogram distributions of decile scores for `operatingCashFlow` across
+    NASDAQ and S&P500 respectively.
+    """
+    st.image('plots/NQ_decile.png')
+    st.image('plots/SP500_decile.png')
+    """
+    Another interesting visualization is the distribution of grades across sectors.
+    """
+    st.image('plots/grades.png')
 
 if __name__ == "__main__":
     main()
