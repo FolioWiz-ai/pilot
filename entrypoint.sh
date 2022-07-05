@@ -6,4 +6,4 @@
 echo Using `python --version`
 python -c 'import numpy as np, pandas as pd, streamlit as st;\
 	print(f"Numpy: {np.__version__} | Pandas: {pd.__version__} | Streamlit: {st.__version__}")'
-streamlit run app.py
+streamlit run app.py --server.port 80
