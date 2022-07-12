@@ -53,10 +53,13 @@ def prepare_universe():
     )
     st.dataframe(breakdown_idxs.groupby("source").describe())
 
-    """The next dataset is a distribution of various tickers across sectors, across industries
+    """The next dataset is a distribution of various tickers across sectors, across industries (you can find the count of tickers within the particular category)
     (_you can find a small snapshot of the dataset below_)"""
     goldmaster = pd.read_csv("data/universe_goldmaster.csv").set_index("ticker")
-    st.table(goldmaster.head(15))
+    """### Sector-wise Division"""
+    st.table(goldmaster.groupby('sector').count().exchange)
+    """### Industry-wise Division"""
+    st.dataframe(goldmaster.groupby('industry').count().exchange)
 
     with st.spinner("Loading Correlation Data ..."):
         """The final dataset as part of the `universe` is the `SUMMARY`.
@@ -67,16 +70,18 @@ def prepare_universe():
         st.info(f"""The above dataset contains the following columns: `{corr_cols}`""")
 
         """Given that this matrix has some informational (**as opposed to numeric**), 
-        we can split the dataset into two, one the correlation matrix, and other the textual data."""
+        we can split the dataset into two, one the correlation matrix, and other the textual data. Additionally, we can calculate the various themes and ETFs a particular ticker belongs to."""
         corr_data = corr_df.loc[:, corr_cols[-5:]]
-        corr_matrix = (
-            corr_df.loc[:, corr_cols[:-5]].fillna(0.0).reset_index(drop=True).to_numpy()
-        )
+        corr_matrix = corr_df.iloc[:, :-5].fillna(0).astype(int)
         """#### Correlation Dataset Snapshot"""
         st.table(corr_data.head())
-        """#### Correlation Matrix"""
-        st.dataframe(corr_matrix)
-
+        """
+        #### Correlation Matrix
+        Here we can visualize the various themes and ETFs a ticker belongs to.
+        """
+        themes = corr_matrix.dot(corr_matrix.columns + ';').str.split(';').map(lambda row: [theme for theme in row if theme != '']).reset_index()
+        themes.columns = ['ticker', 'themes']
+        st.dataframe(themes.head(25))
     return [indices, breakdown_idxs, goldmaster, corr_data, corr_matrix]
 
 
